@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "805b1a8d04c2201944ead2fcfe2a507d"
+build_time: [1511007503, 464177000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Byte.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Modification.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Ports.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+String.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Parser/Parser.swift": [1510783649, 0]

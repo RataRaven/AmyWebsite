@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "96d2fd0000d511044e9ecf1ededf6793"
+build_time: [1511033072, 30894000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/Run/main.swift": [1510933234, 0]

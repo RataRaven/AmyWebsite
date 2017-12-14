@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "9b035084be3fe376037ddbb89a67d511"
+build_time: [1511007550, 456713000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+BytesConvertible.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Parse.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Serialize.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+BytesConvertible.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Literal.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Parse.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Serialize.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Request+Cookies.swift": [1510783649, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Response+Cookies.swift": [1510783649, 0]

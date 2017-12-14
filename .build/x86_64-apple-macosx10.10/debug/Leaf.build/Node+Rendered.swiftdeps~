@@ -1,0 +1,328 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["4NodeAAV", ""]
+- ["4NodeAAV", "rendered"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Bytes"
+- !private "Date"
+- "Node"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "htmlEscaped"]
+- !private ["s23BidirectionalCollectionP", "makeBytes"]
+- !private ["Sb", "description"]
+- !private ["4Bits16BytesConvertibleP", "htmlEscaped"]
+- !private ["4Bits16BytesConvertibleP", "makeBytes"]
+- !private ["4Bits18BytesInitializableP", "htmlEscaped"]
+- !private ["4Bits18BytesInitializableP", "makeBytes"]
+- !private ["4Bits18BytesRepresentableP", "htmlEscaped"]
+- !private ["4Bits18BytesRepresentableP", "makeBytes"]
+- !private ["s7CVarArgP", "htmlEscaped"]
+- !private ["s7CVarArgP", "makeBytes"]
+- !private ["s7CVarArgP", "string"]
+- !private ["s10CollectionP", "htmlEscaped"]
+- !private ["s10CollectionP", "makeBytes"]
+- !private ["s10ComparableP", "htmlEscaped"]
+- !private ["s10ComparableP", "makeBytes"]
+- !private ["s10ComparableP", "outgoingDateFormatter"]
+- !private ["s28CustomDebugStringConvertibleP", "htmlEscaped"]
+- !private ["s28CustomDebugStringConvertibleP", "makeBytes"]
+- !private ["s28CustomDebugStringConvertibleP", "outgoingDateFormatter"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s29CustomPlaygroundQuickLookableP", "description"]
+- !private ["s29CustomPlaygroundQuickLookableP", "htmlEscaped"]
+- !private ["s29CustomPlaygroundQuickLookableP", "makeBytes"]
+- !private ["s29CustomPlaygroundQuickLookableP", "outgoingDateFormatter"]
+- !private ["s17CustomReflectableP", "description"]
+- !private ["s17CustomReflectableP", "htmlEscaped"]
+- !private ["s17CustomReflectableP", "makeBytes"]
+- !private ["s17CustomReflectableP", "outgoingDateFormatter"]
+- ["s23CustomStringConvertibleP", "array"]
+- ["s23CustomStringConvertibleP", "bool"]
+- ["s23CustomStringConvertibleP", "bytes"]
+- ["s23CustomStringConvertibleP", "date"]
+- !private ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "htmlEscaped"]
+- !private ["s23CustomStringConvertibleP", "makeBytes"]
+- ["s23CustomStringConvertibleP", "null"]
+- ["s23CustomStringConvertibleP", "number"]
+- ["s23CustomStringConvertibleP", "object"]
+- !private ["s23CustomStringConvertibleP", "outgoingDateFormatter"]
+- ["s23CustomStringConvertibleP", "string"]
+- !private ["10Foundation4DateV", "outgoingDateFormatter"]
+- !private ["So13DateFormatterC", "string"]
+- !private ["s9DecodableP", "description"]
+- !private ["s9DecodableP", "htmlEscaped"]
+- !private ["s9DecodableP", "makeBytes"]
+- !private ["s9DecodableP", "outgoingDateFormatter"]
+- !private ["s9EncodableP", "description"]
+- !private ["s9EncodableP", "htmlEscaped"]
+- !private ["s9EncodableP", "makeBytes"]
+- !private ["s9EncodableP", "outgoingDateFormatter"]
+- !private ["s9EquatableP", "Date"]
+- ["s9EquatableP", "array"]
+- ["s9EquatableP", "bool"]
+- ["s9EquatableP", "bytes"]
+- ["s9EquatableP", "date"]
+- !private ["s9EquatableP", "description"]
+- !private ["s9EquatableP", "htmlEscaped"]
+- !private ["s9EquatableP", "makeBytes"]
+- ["s9EquatableP", "null"]
+- ["s9EquatableP", "number"]
+- ["s9EquatableP", "object"]
+- !private ["s9EquatableP", "outgoingDateFormatter"]
+- ["s9EquatableP", "string"]
+- !private ["s9EquatableP", "wrapped"]
+- !private ["s25ExpressibleByArrayLiteralP", "Date"]
+- !private ["s25ExpressibleByArrayLiteralP", "wrapped"]
+- !private ["s27ExpressibleByBooleanLiteralP", "Date"]
+- !private ["s27ExpressibleByBooleanLiteralP", "description"]
+- !private ["s27ExpressibleByBooleanLiteralP", "wrapped"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "Date"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "wrapped"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Date"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "htmlEscaped"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "makeBytes"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "wrapped"]
+- !private ["s25ExpressibleByFloatLiteralP", "Date"]
+- !private ["s25ExpressibleByFloatLiteralP", "description"]
+- !private ["s25ExpressibleByFloatLiteralP", "wrapped"]
+- !private ["s27ExpressibleByIntegerLiteralP", "Date"]
+- !private ["s27ExpressibleByIntegerLiteralP", "description"]
+- !private ["s27ExpressibleByIntegerLiteralP", "wrapped"]
+- !private ["s23ExpressibleByNilLiteralP", "Date"]
+- !private ["s23ExpressibleByNilLiteralP", "wrapped"]
+- !private ["s26ExpressibleByStringLiteralP", "Date"]
+- !private ["s26ExpressibleByStringLiteralP", "htmlEscaped"]
+- !private ["s26ExpressibleByStringLiteralP", "makeBytes"]
+- !private ["s26ExpressibleByStringLiteralP", "wrapped"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Date"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "htmlEscaped"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "makeBytes"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "wrapped"]
+- !private ["So9FormatterC", "string"]
+- !private ["4Node14FuzzyConverterP", "Date"]
+- !private ["4Node14FuzzyConverterP", "wrapped"]
+- !private ["s8HashableP", "description"]
+- !private ["s8HashableP", "htmlEscaped"]
+- !private ["s8HashableP", "makeBytes"]
+- !private ["s8HashableP", "outgoingDateFormatter"]
+- !private ["s8HashableP", "string"]
+- !private ["s25LosslessStringConvertibleP", "description"]
+- !private ["s25LosslessStringConvertibleP", "htmlEscaped"]
+- !private ["s25LosslessStringConvertibleP", "makeBytes"]
+- !private ["s10MirrorPathP", "htmlEscaped"]
+- !private ["s10MirrorPathP", "makeBytes"]
+- !private ["So8NSCodingP", "htmlEscaped"]
+- !private ["So8NSCodingP", "makeBytes"]
+- !private ["So8NSCodingP", "string"]
+- !private ["So9NSCopyingP", "htmlEscaped"]
+- !private ["So9NSCopyingP", "makeBytes"]
+- !private ["So9NSCopyingP", "string"]
+- !private ["So21NSItemProviderReadingP", "htmlEscaped"]
+- !private ["So21NSItemProviderReadingP", "makeBytes"]
+- !private ["So21NSItemProviderWritingP", "htmlEscaped"]
+- !private ["So21NSItemProviderWritingP", "makeBytes"]
+- !private ["So16NSMutableCopyingP", "htmlEscaped"]
+- !private ["So16NSMutableCopyingP", "makeBytes"]
+- !private ["So8NSObjectC", "htmlEscaped"]
+- !private ["So8NSObjectC", "makeBytes"]
+- !private ["So8NSObjectC", "string"]
+- !private ["So16NSObjectProtocolP", "htmlEscaped"]
+- !private ["So16NSObjectProtocolP", "makeBytes"]
+- !private ["So16NSObjectProtocolP", "string"]
+- !private ["So14NSSecureCodingP", "htmlEscaped"]
+- !private ["So14NSSecureCodingP", "makeBytes"]
+- !private ["So8NSStringC", "htmlEscaped"]
+- !private ["So8NSStringC", "makeBytes"]
+- ["4NodeAAV", "Bytes"]
+- !private ["4NodeAAV", "Date"]
+- ["4NodeAAV", "rendered"]
+- !private ["4NodeAAV", "wrapped"]
+- !private ["4Node0A13InitializableP", "Date"]
+- ["4Node0A13InitializableP", "array"]
+- ["4Node0A13InitializableP", "bool"]
+- ["4Node0A13InitializableP", "bytes"]
+- ["4Node0A13InitializableP", "date"]
+- !private ["4Node0A13InitializableP", "description"]
+- !private ["4Node0A13InitializableP", "htmlEscaped"]
+- !private ["4Node0A13InitializableP", "makeBytes"]
+- ["4Node0A13InitializableP", "null"]
+- ["4Node0A13InitializableP", "number"]
+- ["4Node0A13InitializableP", "object"]
+- !private ["4Node0A13InitializableP", "outgoingDateFormatter"]
+- ["4Node0A13InitializableP", "string"]
+- !private ["4Node0A13InitializableP", "wrapped"]
+- !private ["4Node0A13RepresentableP", "Date"]
+- ["4Node0A13RepresentableP", "array"]
+- ["4Node0A13RepresentableP", "bool"]
+- ["4Node0A13RepresentableP", "bytes"]
+- ["4Node0A13RepresentableP", "date"]
+- !private ["4Node0A13RepresentableP", "description"]
+- !private ["4Node0A13RepresentableP", "htmlEscaped"]
+- !private ["4Node0A13RepresentableP", "makeBytes"]
+- ["4Node0A13RepresentableP", "null"]
+- ["4Node0A13RepresentableP", "number"]
+- ["4Node0A13RepresentableP", "object"]
+- !private ["4Node0A13RepresentableP", "outgoingDateFormatter"]
+- ["4Node0A13RepresentableP", "string"]
+- !private ["4Node0A13RepresentableP", "wrapped"]
+- !private ["4Node14StructuredDataO6NumberO", "description"]
+- !private ["13PathIndexableAAP", "Date"]
+- ["13PathIndexableAAP", "array"]
+- ["13PathIndexableAAP", "bool"]
+- ["13PathIndexableAAP", "bytes"]
+- ["13PathIndexableAAP", "date"]
+- ["13PathIndexableAAP", "null"]
+- ["13PathIndexableAAP", "number"]
+- ["13PathIndexableAAP", "object"]
+- ["13PathIndexableAAP", "string"]
+- !private ["13PathIndexableAAP", "wrapped"]
+- !private ["13PathIndexable0A7IndexerP", "htmlEscaped"]
+- !private ["13PathIndexable0A7IndexerP", "makeBytes"]
+- !private ["s26RangeReplaceableCollectionP", "htmlEscaped"]
+- !private ["s26RangeReplaceableCollectionP", "makeBytes"]
+- !private ["10Foundation20ReferenceConvertibleP", "outgoingDateFormatter"]
+- !private ["s8SequenceP", "htmlEscaped"]
+- !private ["s8SequenceP", "makeBytes"]
+- !private ["SS", "htmlEscaped"]
+- !private ["SS", "makeBytes"]
+- !private ["s14StringProtocolP", "htmlEscaped"]
+- !private ["s14StringProtocolP", "makeBytes"]
+- ["4Node14StructuredDataO", "array"]
+- ["4Node14StructuredDataO", "bool"]
+- ["4Node14StructuredDataO", "bytes"]
+- ["4Node14StructuredDataO", "date"]
+- ["4Node14StructuredDataO", "null"]
+- ["4Node14StructuredDataO", "number"]
+- ["4Node14StructuredDataO", "object"]
+- ["4Node14StructuredDataO", "string"]
+- !private ["4Node21StructuredDataWrapperP", "Date"]
+- !private ["4Node21StructuredDataWrapperP", "wrapped"]
+- !private ["s16TextOutputStreamP", "htmlEscaped"]
+- !private ["s16TextOutputStreamP", "makeBytes"]
+- !private ["s20TextOutputStreamableP", "htmlEscaped"]
+- !private ["s20TextOutputStreamableP", "makeBytes"]
+- !private ["s23_BidirectionalIndexableP", "htmlEscaped"]
+- !private ["s23_BidirectionalIndexableP", "makeBytes"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "description"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "htmlEscaped"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "makeBytes"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "htmlEscaped"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "makeBytes"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "htmlEscaped"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "makeBytes"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "htmlEscaped"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "makeBytes"]
+- !private ["s33_ExpressibleByStringInterpolationP", "htmlEscaped"]
+- !private ["s33_ExpressibleByStringInterpolationP", "makeBytes"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "htmlEscaped"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "makeBytes"]
+- !private ["s10_IndexableP", "htmlEscaped"]
+- !private ["s10_IndexableP", "makeBytes"]
+- !private ["s14_IndexableBaseP", "htmlEscaped"]
+- !private ["s14_IndexableBaseP", "makeBytes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "htmlEscaped"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "makeBytes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- !private ["s21_ObjectiveCBridgeableP", "description"]
+- !private ["s21_ObjectiveCBridgeableP", "htmlEscaped"]
+- !private ["s21_ObjectiveCBridgeableP", "makeBytes"]
+- !private ["s21_ObjectiveCBridgeableP", "outgoingDateFormatter"]
+- !private ["s26_RangeReplaceableIndexableP", "htmlEscaped"]
+- !private ["s26_RangeReplaceableIndexableP", "makeBytes"]
+- !private ["s16_SwiftStringViewP", "htmlEscaped"]
+- !private ["s16_SwiftStringViewP", "makeBytes"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "4Bits16BytesConvertibleP"
+- !private "4Bits18BytesInitializableP"
+- !private "4Bits18BytesRepresentableP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "So13DateFormatterC"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So9FormatterC"
+- !private "4Node14FuzzyConverterP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "4NodeAAV"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- !private "4Node14StructuredDataO6NumberO"
+- "13PathIndexableAAP"
+- !private "13PathIndexable0A7IndexerP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- "4Node14StructuredDataO"
+- !private "4Node21StructuredDataWrapperP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Node.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/PathIndexable.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+interface-hash: "e62feac0b77db6e4f4ac32f191a8f7e5"

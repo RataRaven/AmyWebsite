@@ -1,0 +1,464 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WebController"
+provides-nominal:
+- "3App13WebControllerC"
+provides-member:
+- ["3App13WebControllerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "AssignmentPrecedence"
+- !private "Conversation"
+- "ConversationV1"
+- !private "DispatchGroup"
+- "Droplet"
+- "Error"
+- !private "InputData"
+- !private "JSON"
+- !private "MessageRequest"
+- !private "NodeRepresentable"
+- "Request"
+- "ResponseRepresentable"
+- !private "String"
+- "StringLiteralType"
+- !private "UnicodeScalarType"
+- "ViewRenderer"
+- "WebController"
+- !private "WebSocket"
+- "print"
+depends-member:
+- !private ["Sa", "subscript"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "string"]
+- !private ["s23BidirectionalCollectionP", "subscript"]
+- ["4HTTP17BodyRepresentableP", "init"]
+- !private ["4HTTP17BodyRepresentableP", "string"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["4Bits16BytesConvertibleP", "init"]
+- !private ["4Bits16BytesConvertibleP", "string"]
+- ["4Bits18BytesInitializableP", "init"]
+- !private ["4Bits18BytesInitializableP", "string"]
+- ["4Bits18BytesRepresentableP", "init"]
+- !private ["4Bits18BytesRepresentableP", "string"]
+- !private ["s7CVarArgP", "enter"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "leave"]
+- !private ["s7CVarArgP", "string"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "wait"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "string"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10ComparableP", "distantFuture"]
+- ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "string"]
+- !private ["5Vapor7ContentC", "subscript"]
+- !private ["14ConversationV10A0C", "init"]
+- !private ["14ConversationV10A0C", "message"]
+- !private ["s28CustomDebugStringConvertibleP", "enter"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "leave"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "wait"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "string"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "string"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- !private ["s23CustomStringConvertibleP", "enter"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "leave"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "wait"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "context"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "output"]
+- !private ["s9DecodableP", "string"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9DecodableP", "text"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["So13DispatchGroupC", "enter"]
+- !private ["So13DispatchGroupC", "init"]
+- !private ["So13DispatchGroupC", "leave"]
+- !private ["So13DispatchGroupC", "wait"]
+- !private ["So14DispatchObjectC", "enter"]
+- !private ["So14DispatchObjectC", "init"]
+- !private ["So14DispatchObjectC", "leave"]
+- !private ["So14DispatchObjectC", "wait"]
+- !private ["8Dispatch0A4TimeV", "distantFuture"]
+- !private ["5Vapor7DropletC", "get"]
+- !private ["5Vapor7DropletC", "socket"]
+- ["4SMTP25EmailAddressRepresentableP", "init"]
+- !private ["4SMTP25EmailAddressRepresentableP", "string"]
+- ["4SMTP22EmailBodyRepresentableP", "init"]
+- !private ["4SMTP22EmailBodyRepresentableP", "string"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "context"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "output"]
+- !private ["s9EncodableP", "string"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EncodableP", "text"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "distantFuture"]
+- !private ["s9EquatableP", "enter"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "leave"]
+- !private ["s9EquatableP", "string"]
+- !private ["s9EquatableP", "wait"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "string"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "string"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "string"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "string"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "string"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "string"]
+- !private ["s23ExpressibleByNilLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "string"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "string"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "string"]
+- !private ["4Node14FuzzyConverterP", "init"]
+- !private ["4Node14FuzzyConverterP", "string"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "enter"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "leave"]
+- !private ["s8HashableP", "string"]
+- !private ["s8HashableP", "wait"]
+- !private ["14ConversationV19InputDataV", "init"]
+- !private ["14ConversationV14JSONO", "init"]
+- !private ["4JSONAAV", "init"]
+- !private ["14ConversationV113JSONDecodableP", "_getBuiltinLogicValue"]
+- ["14ConversationV113JSONDecodableP", "init"]
+- !private ["14ConversationV113JSONDecodableP", "string"]
+- ["14ConversationV112JSONPathTypeP", "init"]
+- !private ["14ConversationV112JSONPathTypeP", "string"]
+- !private ["4JSON17JSONRepresentableP", "init"]
+- !private ["4HTTP13KeyAccessibleP", "subscript"]
+- !private ["7Configs13KeyAccessibleP", "subscript"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "string"]
+- !private ["4HTTP7MessageP", "data"]
+- !private ["14ConversationV114MessageRequestV", "init"]
+- !private ["14ConversationV115MessageResponseV", "context"]
+- !private ["14ConversationV115MessageResponseV", "output"]
+- ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "string"]
+- !private ["s17MutableCollectionP", "subscript"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "string"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "string"]
+- ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "string"]
+- ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "string"]
+- ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "string"]
+- !private ["So8NSObjectC", "enter"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "leave"]
+- !private ["So8NSObjectC", "string"]
+- !private ["So8NSObjectC", "wait"]
+- !private ["So16NSObjectProtocolP", "enter"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "leave"]
+- !private ["So16NSObjectProtocolP", "string"]
+- !private ["So16NSObjectProtocolP", "wait"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "string"]
+- ["So8NSStringC", "init"]
+- !private ["So8NSStringC", "string"]
+- !private ["4NodeAAV", "string"]
+- !private ["4Node0A13InitializableP", "_getBuiltinLogicValue"]
+- ["4Node0A13InitializableP", "init"]
+- !private ["4Node0A13InitializableP", "string"]
+- !private ["4Node0A13InitializableP", "subscript"]
+- !private ["4Node0A13RepresentableP", "_getBuiltinLogicValue"]
+- !private ["4Node0A13RepresentableP", "data"]
+- ["4Node0A13RepresentableP", "init"]
+- !private ["4Node0A13RepresentableP", "string"]
+- !private ["4Node0A13RepresentableP", "subscript"]
+- !private ["So9OS_objectC", "enter"]
+- !private ["So9OS_objectC", "init"]
+- !private ["So9OS_objectC", "leave"]
+- !private ["So9OS_objectC", "wait"]
+- !private ["14ConversationV110OutputDataV", "text"]
+- ["7Routing15ParameterizableP", "init"]
+- !private ["7Routing15ParameterizableP", "string"]
+- !private ["13PathIndexableAAP", "init"]
+- !private ["13PathIndexableAAP", "string"]
+- ["13PathIndexable0A7IndexerP", "init"]
+- !private ["13PathIndexable0A7IndexerP", "string"]
+- !private ["s22RandomAccessCollectionP", "subscript"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "string"]
+- !private ["s26RangeReplaceableCollectionP", "subscript"]
+- !private ["4HTTP7RequestC", "data"]
+- ["5Vapor23RequestContentSubscriptP", "init"]
+- !private ["5Vapor23RequestContentSubscriptP", "string"]
+- !private ["4HTTP9ResponderP", "get"]
+- !private ["4HTTP9ResponderP", "socket"]
+- ["4HTTP21ResponseRepresentableP", "init"]
+- !private ["4HTTP21ResponseRepresentableP", "string"]
+- !private ["7Routing12RouteBuilderP", "get"]
+- !private ["7Routing12RouteBuilderP", "socket"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "string"]
+- !private ["s8SequenceP", "subscript"]
+- ["SS", "init"]
+- !private ["SS", "string"]
+- ["s14StringProtocolP", "init"]
+- !private ["s14StringProtocolP", "string"]
+- !private ["4Node21StructuredDataWrapperP", "init"]
+- !private ["4Node21StructuredDataWrapperP", "string"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "string"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "string"]
+- !private ["5Vapor12ViewRendererP", "make"]
+- !private ["3App13WebControllerC", "Conversation"]
+- ["3App13WebControllerC", "ConversationV1"]
+- !private ["3App13WebControllerC", "DispatchGroup"]
+- ["3App13WebControllerC", "Droplet"]
+- ["3App13WebControllerC", "Error"]
+- !private ["3App13WebControllerC", "InputData"]
+- !private ["3App13WebControllerC", "JSON"]
+- !private ["3App13WebControllerC", "MessageRequest"]
+- !private ["3App13WebControllerC", "NodeRepresentable"]
+- ["3App13WebControllerC", "Request"]
+- ["3App13WebControllerC", "ResponseRepresentable"]
+- !private ["3App13WebControllerC", "String"]
+- ["3App13WebControllerC", "ViewRenderer"]
+- !private ["3App13WebControllerC", "WebSocket"]
+- ["3App13WebControllerC", "addRoutes"]
+- ["3App13WebControllerC", "context"]
+- ["3App13WebControllerC", "deinit"]
+- ["3App13WebControllerC", "failure"]
+- ["3App13WebControllerC", "indexHandler"]
+- ["3App13WebControllerC", "init"]
+- ["3App13WebControllerC", "password"]
+- ["3App13WebControllerC", "print"]
+- ["3App13WebControllerC", "username"]
+- ["3App13WebControllerC", "version"]
+- ["3App13WebControllerC", "viewRenderer"]
+- ["3App13WebControllerC", "workspaceID"]
+- !private ["10WebSockets0A6SocketC", "send"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "string"]
+- !private ["s23_BidirectionalIndexableP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "string"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "string"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "string"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "string"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "string"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "string"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "string"]
+- !private ["s10_IndexableP", "subscript"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "string"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "enter"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "leave"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "wait"]
+- !private ["s17_MutableIndexableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "string"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s22_RandomAccessIndexableP", "subscript"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "string"]
+- !private ["s26_RangeReplaceableIndexableP", "subscript"]
+- ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "string"]
+depends-nominal:
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- "4HTTP17BodyRepresentableP"
+- !private "Sb"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- !private "5Vapor7ContentC"
+- !private "14ConversationV10A0C"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- !private "So13DispatchGroupC"
+- !private "So14DispatchObjectC"
+- !private "8Dispatch0A4TimeV"
+- !private "5Vapor7DropletC"
+- "4SMTP25EmailAddressRepresentableP"
+- "4SMTP22EmailBodyRepresentableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "4Node14FuzzyConverterP"
+- "s8HashableP"
+- !private "14ConversationV19InputDataV"
+- !private "14ConversationV14JSONO"
+- !private "4JSONAAV"
+- "14ConversationV113JSONDecodableP"
+- "14ConversationV112JSONPathTypeP"
+- !private "4JSON17JSONRepresentableP"
+- !private "4HTTP13KeyAccessibleP"
+- !private "7Configs13KeyAccessibleP"
+- "s25LosslessStringConvertibleP"
+- !private "4HTTP7MessageP"
+- !private "14ConversationV114MessageRequestV"
+- !private "14ConversationV115MessageResponseV"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- !private "4NodeAAV"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- !private "So9OS_objectC"
+- !private "14ConversationV110OutputDataV"
+- "7Routing15ParameterizableP"
+- !private "13PathIndexableAAP"
+- "13PathIndexable0A7IndexerP"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- !private "4HTTP7RequestC"
+- "5Vapor23RequestContentSubscriptP"
+- !private "4HTTP9ResponderP"
+- "4HTTP21ResponseRepresentableP"
+- !private "7Routing12RouteBuilderP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- !private "4Node21StructuredDataWrapperP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "5Vapor12ViewRendererP"
+- "3App13WebControllerC"
+- !private "10WebSockets0A6SocketC"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/URI.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/JSON.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/SMTP.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/HTTP.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/TLS.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/FormData.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Node.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Cache.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/PathIndexable.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Console.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/SQLite.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Leaf.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Random.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Crypto.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/FluentProvider.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Vapor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Branches.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Cookies.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Configs.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Sessions.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Sockets.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/WebSockets.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Fluent.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/BCrypt.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Transport.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sqlite.git--8232814251736334455/Sources/CSQLite/include/sqlite3.h"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "8a011f69fee1f79b07bde8995919d383"

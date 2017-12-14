@@ -1,0 +1,548 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Conversation"
+provides-nominal:
+- "14ConversationV10A0C"
+provides-member:
+- ["14ConversationV10A0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- !private "+"
+- !private "<"
+- !private ">="
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- "Conversation"
+- "Counterexample"
+- "CounterexampleCollection"
+- !private "CreateCounterexample"
+- "CreateDialogNode"
+- "CreateEntity"
+- "CreateExample"
+- !private "CreateIntent"
+- !private "CreateSynonym"
+- "CreateValue"
+- "CreateWorkspace"
+- "Credentials"
+- !private "Data"
+- "DialogNode"
+- "DialogNodeCollection"
+- !private "Dictionary"
+- "Entity"
+- "EntityCollection"
+- "EntityExport"
+- "Error"
+- "Example"
+- "ExampleCollection"
+- !private "HTTPURLResponse"
+- "Int"
+- "Intent"
+- "IntentCollection"
+- "IntentExport"
+- !private "JSONEncoder"
+- !private "JSONWrapper"
+- "LogCollection"
+- "MessageRequest"
+- "MessageResponse"
+- !private "NSError"
+- !private "NSLocalizedDescriptionKey"
+- !private "RestError"
+- !private "RestRequest"
+- !private "RestResponse"
+- "String"
+- "StringLiteralType"
+- "Synonym"
+- "SynonymCollection"
+- !private "URLQueryItem"
+- !private "UpdateCounterexample"
+- "UpdateDialogNode"
+- "UpdateEntity"
+- !private "UpdateExample"
+- !private "UpdateIntent"
+- !private "UpdateSynonym"
+- "UpdateValue"
+- "UpdateWorkspace"
+- "Value"
+- "ValueCollection"
+- "ValueExport"
+- "Void"
+- "Workspace"
+- "WorkspaceCollection"
+- "WorkspaceExport"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "init"]
+- !private ["s23BidirectionalCollectionP", "addingPercentEncoding"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addingPercentEncoding"]
+- !private ["s7CVarArgP", "append"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "statusCode"]
+- !private ["10Foundation12CharacterSetV", "urlPathAllowed"]
+- !private ["s10CollectionP", "addingPercentEncoding"]
+- !private ["s10CollectionP", "append"]
+- ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "addingPercentEncoding"]
+- ["s10ComparableP", "init"]
+- ["14ConversationV10A0C", "Bool"]
+- ["14ConversationV10A0C", "Counterexample"]
+- ["14ConversationV10A0C", "CounterexampleCollection"]
+- !private ["14ConversationV10A0C", "CreateCounterexample"]
+- ["14ConversationV10A0C", "CreateDialogNode"]
+- ["14ConversationV10A0C", "CreateEntity"]
+- ["14ConversationV10A0C", "CreateExample"]
+- !private ["14ConversationV10A0C", "CreateIntent"]
+- !private ["14ConversationV10A0C", "CreateSynonym"]
+- ["14ConversationV10A0C", "CreateValue"]
+- ["14ConversationV10A0C", "CreateWorkspace"]
+- ["14ConversationV10A0C", "Credentials"]
+- !private ["14ConversationV10A0C", "Data"]
+- ["14ConversationV10A0C", "DialogNode"]
+- ["14ConversationV10A0C", "DialogNodeCollection"]
+- ["14ConversationV10A0C", "Entity"]
+- ["14ConversationV10A0C", "EntityCollection"]
+- ["14ConversationV10A0C", "EntityExport"]
+- ["14ConversationV10A0C", "Error"]
+- ["14ConversationV10A0C", "Example"]
+- ["14ConversationV10A0C", "ExampleCollection"]
+- !private ["14ConversationV10A0C", "HTTPURLResponse"]
+- ["14ConversationV10A0C", "Int"]
+- ["14ConversationV10A0C", "Intent"]
+- ["14ConversationV10A0C", "IntentCollection"]
+- ["14ConversationV10A0C", "IntentExport"]
+- !private ["14ConversationV10A0C", "JSONEncoder"]
+- !private ["14ConversationV10A0C", "JSONWrapper"]
+- ["14ConversationV10A0C", "LogCollection"]
+- ["14ConversationV10A0C", "MessageRequest"]
+- ["14ConversationV10A0C", "MessageResponse"]
+- !private ["14ConversationV10A0C", "NSError"]
+- !private ["14ConversationV10A0C", "NSLocalizedDescriptionKey"]
+- !private ["14ConversationV10A0C", "RestError"]
+- !private ["14ConversationV10A0C", "RestRequest"]
+- !private ["14ConversationV10A0C", "RestResponse"]
+- ["14ConversationV10A0C", "String"]
+- ["14ConversationV10A0C", "Synonym"]
+- ["14ConversationV10A0C", "SynonymCollection"]
+- !private ["14ConversationV10A0C", "URLQueryItem"]
+- !private ["14ConversationV10A0C", "UpdateCounterexample"]
+- ["14ConversationV10A0C", "UpdateDialogNode"]
+- ["14ConversationV10A0C", "UpdateEntity"]
+- !private ["14ConversationV10A0C", "UpdateExample"]
+- !private ["14ConversationV10A0C", "UpdateIntent"]
+- !private ["14ConversationV10A0C", "UpdateSynonym"]
+- ["14ConversationV10A0C", "UpdateValue"]
+- ["14ConversationV10A0C", "UpdateWorkspace"]
+- ["14ConversationV10A0C", "Value"]
+- ["14ConversationV10A0C", "ValueCollection"]
+- ["14ConversationV10A0C", "ValueExport"]
+- ["14ConversationV10A0C", "Void"]
+- ["14ConversationV10A0C", "Workspace"]
+- ["14ConversationV10A0C", "WorkspaceCollection"]
+- ["14ConversationV10A0C", "WorkspaceExport"]
+- ["14ConversationV10A0C", "createCounterexample"]
+- ["14ConversationV10A0C", "createDialogNode"]
+- ["14ConversationV10A0C", "createEntity"]
+- ["14ConversationV10A0C", "createExample"]
+- ["14ConversationV10A0C", "createIntent"]
+- ["14ConversationV10A0C", "createSynonym"]
+- ["14ConversationV10A0C", "createValue"]
+- ["14ConversationV10A0C", "createWorkspace"]
+- !private ["14ConversationV10A0C", "credentials"]
+- ["14ConversationV10A0C", "defaultHeaders"]
+- ["14ConversationV10A0C", "deinit"]
+- ["14ConversationV10A0C", "deleteCounterexample"]
+- ["14ConversationV10A0C", "deleteDialogNode"]
+- ["14ConversationV10A0C", "deleteEntity"]
+- ["14ConversationV10A0C", "deleteExample"]
+- ["14ConversationV10A0C", "deleteIntent"]
+- ["14ConversationV10A0C", "deleteSynonym"]
+- ["14ConversationV10A0C", "deleteValue"]
+- ["14ConversationV10A0C", "deleteWorkspace"]
+- !private ["14ConversationV10A0C", "domain"]
+- ["14ConversationV10A0C", "getCounterexample"]
+- ["14ConversationV10A0C", "getDialogNode"]
+- ["14ConversationV10A0C", "getEntity"]
+- ["14ConversationV10A0C", "getExample"]
+- ["14ConversationV10A0C", "getIntent"]
+- ["14ConversationV10A0C", "getSynonym"]
+- ["14ConversationV10A0C", "getValue"]
+- ["14ConversationV10A0C", "getWorkspace"]
+- ["14ConversationV10A0C", "init"]
+- ["14ConversationV10A0C", "listCounterexamples"]
+- ["14ConversationV10A0C", "listDialogNodes"]
+- ["14ConversationV10A0C", "listEntities"]
+- ["14ConversationV10A0C", "listExamples"]
+- ["14ConversationV10A0C", "listIntents"]
+- ["14ConversationV10A0C", "listLogs"]
+- ["14ConversationV10A0C", "listSynonyms"]
+- ["14ConversationV10A0C", "listValues"]
+- ["14ConversationV10A0C", "listWorkspaces"]
+- ["14ConversationV10A0C", "message"]
+- !private ["14ConversationV10A0C", "responseToError"]
+- ["14ConversationV10A0C", "serviceURL"]
+- ["14ConversationV10A0C", "updateCounterexample"]
+- ["14ConversationV10A0C", "updateDialogNode"]
+- ["14ConversationV10A0C", "updateEntity"]
+- ["14ConversationV10A0C", "updateExample"]
+- ["14ConversationV10A0C", "updateIntent"]
+- ["14ConversationV10A0C", "updateSynonym"]
+- ["14ConversationV10A0C", "updateValue"]
+- ["14ConversationV10A0C", "updateWorkspace"]
+- !private ["14ConversationV10A0C", "version"]
+- !private ["14ConversationV114CounterexampleV", "deinit"]
+- !private ["14ConversationV124CounterexampleCollectionV", "deinit"]
+- !private ["14ConversationV120CreateCounterexampleV", "deinit"]
+- !private ["14ConversationV120CreateCounterexampleV", "init"]
+- !private ["14ConversationV116CreateDialogNodeV", "deinit"]
+- !private ["14ConversationV112CreateEntityV", "deinit"]
+- !private ["14ConversationV113CreateExampleV", "deinit"]
+- !private ["14ConversationV113CreateExampleV", "init"]
+- !private ["14ConversationV112CreateIntentV", "deinit"]
+- !private ["14ConversationV112CreateIntentV", "init"]
+- !private ["14ConversationV113CreateSynonymV", "deinit"]
+- !private ["14ConversationV113CreateSynonymV", "init"]
+- !private ["14ConversationV111CreateValueV", "deinit"]
+- !private ["14ConversationV115CreateWorkspaceV", "deinit"]
+- !private ["14ConversationV111CredentialsO", "basicAuthentication"]
+- !private ["s28CustomDebugStringConvertibleP", "addingPercentEncoding"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "statusCode"]
+- !private ["s28CustomDebugStringConvertibleP", "urlPathAllowed"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "addingPercentEncoding"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "addingPercentEncoding"]
+- !private ["s17CustomReflectableP", "append"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addingPercentEncoding"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "statusCode"]
+- !private ["s23CustomStringConvertibleP", "urlPathAllowed"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "addingPercentEncoding"]
+- !private ["s9DecodableP", "append"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "urlPathAllowed"]
+- !private ["14ConversationV110DialogNodeV", "deinit"]
+- !private ["14ConversationV120DialogNodeCollectionV", "deinit"]
+- ["s10DictionaryV", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "addingPercentEncoding"]
+- !private ["s9EncodableP", "append"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "urlPathAllowed"]
+- !private ["14ConversationV16EntityV", "deinit"]
+- !private ["14ConversationV116EntityCollectionV", "deinit"]
+- !private ["14ConversationV112EntityExportV", "deinit"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addingPercentEncoding"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "statusCode"]
+- !private ["s9EquatableP", "urlPathAllowed"]
+- !private ["s5ErrorP", "encodingError"]
+- !private ["s5ErrorP", "init"]
+- !private ["s5ErrorP", "serializationError"]
+- !private ["14ConversationV17ExampleV", "deinit"]
+- !private ["14ConversationV117ExampleCollectionV", "deinit"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "urlPathAllowed"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "addingPercentEncoding"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "addingPercentEncoding"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "addingPercentEncoding"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So15HTTPURLResponseC", "statusCode"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addingPercentEncoding"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "statusCode"]
+- !private ["s8HashableP", "urlPathAllowed"]
+- !private ["14ConversationV16IntentV", "deinit"]
+- !private ["14ConversationV116IntentCollectionV", "deinit"]
+- !private ["14ConversationV112IntentExportV", "deinit"]
+- !private ["14ConversationV113JSONDecodableP", "_getBuiltinLogicValue"]
+- !private ["14ConversationV113JSONDecodableP", "addingPercentEncoding"]
+- ["14ConversationV113JSONDecodableP", "init"]
+- !private ["10Foundation11JSONEncoderC", "encode"]
+- !private ["10Foundation11JSONEncoderC", "encodeIfPresent"]
+- !private ["10Foundation11JSONEncoderC", "init"]
+- !private ["14ConversationV112JSONPathTypeP", "addingPercentEncoding"]
+- ["14ConversationV112JSONPathTypeP", "init"]
+- !private ["14ConversationV111JSONWrapperV", "getString"]
+- !private ["14ConversationV111JSONWrapperV", "init"]
+- !private ["14ConversationV113LogCollectionV", "deinit"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "addingPercentEncoding"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["14ConversationV114MessageRequestV", "deinit"]
+- !private ["14ConversationV115MessageResponseV", "deinit"]
+- !private ["s10MirrorPathP", "addingPercentEncoding"]
+- ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "init"]
+- !private ["So8NSCodingP", "addingPercentEncoding"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "statusCode"]
+- !private ["So9NSCopyingP", "addingPercentEncoding"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "statusCode"]
+- !private ["So7NSErrorC", "init"]
+- !private ["So21NSItemProviderReadingP", "addingPercentEncoding"]
+- ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "addingPercentEncoding"]
+- ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "addingPercentEncoding"]
+- ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "addingPercentEncoding"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "statusCode"]
+- !private ["So16NSObjectProtocolP", "addingPercentEncoding"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "statusCode"]
+- !private ["So14NSSecureCodingP", "addingPercentEncoding"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "statusCode"]
+- !private ["So8NSStringC", "addingPercentEncoding"]
+- ["So8NSStringC", "init"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "addingPercentEncoding"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "urlPathAllowed"]
+- !private ["14ConversationV19RestErrorO", "deinit"]
+- !private ["14ConversationV19RestErrorO", "encodingError"]
+- !private ["14ConversationV19RestErrorO", "serializationError"]
+- !private ["14ConversationV111RestRequestV", "init"]
+- !private ["14ConversationV111RestRequestV", "responseObject"]
+- !private ["14ConversationV111RestRequestV", "responseVoid"]
+- !private ["14ConversationV112RestResponseV", "result"]
+- !private ["14ConversationV110RestResultO", "failure"]
+- !private ["14ConversationV110RestResultO", "success"]
+- !private ["s8SequenceP", "addingPercentEncoding"]
+- !private ["s8SequenceP", "append"]
+- ["s8SequenceP", "init"]
+- !private ["s10SetAlgebraP", "urlPathAllowed"]
+- !private ["SS", "addingPercentEncoding"]
+- !private ["SS", "deinit"]
+- ["SS", "init"]
+- !private ["s14StringProtocolP", "addingPercentEncoding"]
+- ["s14StringProtocolP", "init"]
+- !private ["14ConversationV17SynonymV", "deinit"]
+- !private ["14ConversationV117SynonymCollectionV", "deinit"]
+- !private ["s16TextOutputStreamP", "addingPercentEncoding"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "addingPercentEncoding"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["10Foundation12URLQueryItemV", "init"]
+- !private ["So11URLResponseC", "statusCode"]
+- !private ["14ConversationV120UpdateCounterexampleV", "deinit"]
+- !private ["14ConversationV120UpdateCounterexampleV", "init"]
+- !private ["14ConversationV116UpdateDialogNodeV", "deinit"]
+- !private ["14ConversationV112UpdateEntityV", "deinit"]
+- !private ["14ConversationV113UpdateExampleV", "deinit"]
+- !private ["14ConversationV113UpdateExampleV", "init"]
+- !private ["14ConversationV112UpdateIntentV", "deinit"]
+- !private ["14ConversationV112UpdateIntentV", "init"]
+- !private ["14ConversationV113UpdateSynonymV", "deinit"]
+- !private ["14ConversationV113UpdateSynonymV", "init"]
+- !private ["14ConversationV111UpdateValueV", "deinit"]
+- !private ["14ConversationV115UpdateWorkspaceV", "deinit"]
+- !private ["14ConversationV15ValueV", "deinit"]
+- !private ["14ConversationV115ValueCollectionV", "deinit"]
+- !private ["14ConversationV111ValueExportV", "deinit"]
+- !private ["14ConversationV19WorkspaceV", "deinit"]
+- !private ["14ConversationV119WorkspaceCollectionV", "deinit"]
+- !private ["14ConversationV115WorkspaceExportV", "deinit"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s23_BidirectionalIndexableP", "addingPercentEncoding"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "addingPercentEncoding"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "addingPercentEncoding"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "addingPercentEncoding"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "addingPercentEncoding"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "addingPercentEncoding"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "addingPercentEncoding"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "addingPercentEncoding"]
+- !private ["s10_IndexableP", "append"]
+- ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "addingPercentEncoding"]
+- !private ["s14_IndexableBaseP", "append"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addingPercentEncoding"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "statusCode"]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s17_MutableIndexableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "addingPercentEncoding"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "urlPathAllowed"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s22_RandomAccessIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "addingPercentEncoding"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "addingPercentEncoding"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "10Foundation12CharacterSetV"
+- "s10CollectionP"
+- "s10ComparableP"
+- "14ConversationV10A0C"
+- !private "14ConversationV114CounterexampleV"
+- !private "14ConversationV124CounterexampleCollectionV"
+- !private "14ConversationV120CreateCounterexampleV"
+- !private "14ConversationV116CreateDialogNodeV"
+- !private "14ConversationV112CreateEntityV"
+- !private "14ConversationV113CreateExampleV"
+- !private "14ConversationV112CreateIntentV"
+- !private "14ConversationV113CreateSynonymV"
+- !private "14ConversationV111CreateValueV"
+- !private "14ConversationV115CreateWorkspaceV"
+- !private "14ConversationV111CredentialsO"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "14ConversationV110DialogNodeV"
+- !private "14ConversationV120DialogNodeCollectionV"
+- "s10DictionaryV"
+- "s9EncodableP"
+- !private "14ConversationV16EntityV"
+- !private "14ConversationV116EntityCollectionV"
+- !private "14ConversationV112EntityExportV"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- !private "14ConversationV17ExampleV"
+- !private "14ConversationV117ExampleCollectionV"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So15HTTPURLResponseC"
+- "s8HashableP"
+- !private "14ConversationV16IntentV"
+- !private "14ConversationV116IntentCollectionV"
+- !private "14ConversationV112IntentExportV"
+- "14ConversationV113JSONDecodableP"
+- !private "10Foundation11JSONEncoderC"
+- "14ConversationV112JSONPathTypeP"
+- !private "14ConversationV111JSONWrapperV"
+- !private "14ConversationV113LogCollectionV"
+- "s25LosslessStringConvertibleP"
+- !private "14ConversationV114MessageRequestV"
+- !private "14ConversationV115MessageResponseV"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So7NSErrorC"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "14ConversationV19RestErrorO"
+- !private "14ConversationV111RestRequestV"
+- !private "14ConversationV112RestResponseV"
+- !private "14ConversationV110RestResultO"
+- "s8SequenceP"
+- !private "s10SetAlgebraP"
+- "SS"
+- "s14StringProtocolP"
+- !private "14ConversationV17SynonymV"
+- !private "14ConversationV117SynonymCollectionV"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "10Foundation12URLQueryItemV"
+- !private "So11URLResponseC"
+- !private "14ConversationV120UpdateCounterexampleV"
+- !private "14ConversationV116UpdateDialogNodeV"
+- !private "14ConversationV112UpdateEntityV"
+- !private "14ConversationV113UpdateExampleV"
+- !private "14ConversationV112UpdateIntentV"
+- !private "14ConversationV113UpdateSynonymV"
+- !private "14ConversationV111UpdateValueV"
+- !private "14ConversationV115UpdateWorkspaceV"
+- !private "14ConversationV15ValueV"
+- !private "14ConversationV115ValueCollectionV"
+- !private "14ConversationV111ValueExportV"
+- !private "14ConversationV19WorkspaceV"
+- !private "14ConversationV119WorkspaceCollectionV"
+- !private "14ConversationV115WorkspaceExportV"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "0145c32470cff54962f98b3e7e7a5903"

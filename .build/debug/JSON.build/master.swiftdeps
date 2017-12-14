@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "ebb82a8fbea9020da72510f00aac3d1d"
+build_time: [1511013357, 18240000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Bytes.swift": [1510783648, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Equatable.swift": [9223372036, 854775807]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Fuzzy.swift": [1510783648, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Parse.swift": [1510783648, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Serialize.swift": [1511013192, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON.swift": [1510783648, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONContext.swift": [1510783648, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONRepresentable.swift": [1510783648, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/json.git-9153249592855998091/Sources/JSON/Sequence+Convertible.swift": [1510783648, 0]

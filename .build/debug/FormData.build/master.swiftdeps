@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "0c6a73cc7a66287a75568f40786fc062"
+build_time: [1511013387, 723416000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/ContentDispositionParser.swift": [1510783647, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Field.swift": [1510783647, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Parser.swift": [1510783647, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Serializer.swift": [1510783647, 0]

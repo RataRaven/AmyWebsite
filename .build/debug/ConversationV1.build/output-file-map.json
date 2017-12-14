@@ -1,0 +1,371 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/master.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Conversation.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Conversation.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Conversation.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Conversation~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Conversation.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/Context.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Context.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/Context.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Context~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Context.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/Counterexample.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Counterexample.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/Counterexample.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Counterexample~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Counterexample.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/CounterexampleCollection.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CounterexampleCollection.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/CounterexampleCollection.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CounterexampleCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CounterexampleCollection.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/CreateCounterexample.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateCounterexample.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/CreateCounterexample.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateCounterexample~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateCounterexample.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/CreateDialogNode.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateDialogNode.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/CreateDialogNode.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateDialogNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateDialogNode.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/CreateEntity.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateEntity.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/CreateEntity.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateEntity~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateEntity.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/CreateExample.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateExample.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/CreateExample.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateExample~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateExample.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/CreateIntent.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateIntent.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/CreateIntent.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateIntent~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateIntent.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/CreateSynonym.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateSynonym.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/CreateSynonym.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateSynonym~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateSynonym.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/CreateValue.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateValue.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/CreateValue.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateValue.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/CreateWorkspace.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateWorkspace.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/CreateWorkspace.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateWorkspace~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CreateWorkspace.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/DialogNode.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNode.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/DialogNode.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNode.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/DialogNodeAction.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNodeAction.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/DialogNodeAction.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNodeAction~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNodeAction.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/DialogNodeCollection.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNodeCollection.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/DialogNodeCollection.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNodeCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNodeCollection.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/DialogNodeNextStep.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNodeNextStep.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/DialogNodeNextStep.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNodeNextStep~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/DialogNodeNextStep.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/Entity.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Entity.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/Entity.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Entity~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Entity.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/EntityCollection.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/EntityCollection.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/EntityCollection.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/EntityCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/EntityCollection.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/EntityExport.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/EntityExport.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/EntityExport.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/EntityExport~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/EntityExport.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/Example.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Example.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/Example.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Example~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Example.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/ExampleCollection.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/ExampleCollection.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/ExampleCollection.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/ExampleCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/ExampleCollection.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/InputData.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/InputData.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/InputData.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/InputData~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/InputData.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/Intent.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Intent.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/Intent.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Intent~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Intent.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/IntentCollection.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/IntentCollection.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/IntentCollection.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/IntentCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/IntentCollection.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/IntentExport.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/IntentExport.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/IntentExport.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/IntentExport~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/IntentExport.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/LogCollection.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogCollection.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/LogCollection.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogCollection.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/LogExport.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogExport.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/LogExport.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogExport~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogExport.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/LogMessage.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogMessage.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/LogMessage.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogMessage.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/LogPagination.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogPagination.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/LogPagination.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogPagination~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/LogPagination.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/MessageInput.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MessageInput.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/MessageInput.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MessageInput~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MessageInput.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/MessageRequest.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MessageRequest.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/MessageRequest.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MessageRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MessageRequest.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/MessageResponse.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MessageResponse.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/MessageResponse.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MessageResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MessageResponse.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/OutputData.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/OutputData.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/OutputData.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/OutputData~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/OutputData.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/Pagination.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Pagination.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/Pagination.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Pagination~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Pagination.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/RuntimeEntity.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RuntimeEntity.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/RuntimeEntity.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RuntimeEntity~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RuntimeEntity.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/RuntimeIntent.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RuntimeIntent.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/RuntimeIntent.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RuntimeIntent~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RuntimeIntent.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/Synonym.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Synonym.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/Synonym.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Synonym~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Synonym.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/SynonymCollection.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/SynonymCollection.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/SynonymCollection.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/SynonymCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/SynonymCollection.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/SystemResponse.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/SystemResponse.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/SystemResponse.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/SystemResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/SystemResponse.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/UpdateCounterexample.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateCounterexample.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/UpdateCounterexample.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateCounterexample~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateCounterexample.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/UpdateDialogNode.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateDialogNode.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/UpdateDialogNode.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateDialogNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateDialogNode.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/UpdateEntity.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateEntity.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/UpdateEntity.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateEntity~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateEntity.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/UpdateExample.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateExample.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/UpdateExample.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateExample~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateExample.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/UpdateIntent.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateIntent.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/UpdateIntent.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateIntent~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateIntent.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/UpdateSynonym.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateSynonym.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/UpdateSynonym.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateSynonym~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateSynonym.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/UpdateValue.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateValue.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/UpdateValue.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateValue.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/UpdateWorkspace.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateWorkspace.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/UpdateWorkspace.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateWorkspace~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/UpdateWorkspace.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/Value.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Value.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/Value.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Value~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Value.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/ValueCollection.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/ValueCollection.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/ValueCollection.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/ValueCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/ValueCollection.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/ValueExport.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/ValueExport.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/ValueExport.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/ValueExport~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/ValueExport.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/Workspace.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Workspace.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/Workspace.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Workspace~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Workspace.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/WorkspaceCollection.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/WorkspaceCollection.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/WorkspaceCollection.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/WorkspaceCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/WorkspaceCollection.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/Models/WorkspaceExport.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/WorkspaceExport.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/Models/WorkspaceExport.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/WorkspaceExport~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/WorkspaceExport.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/RestKit/CodableExtensions.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CodableExtensions.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestKit/CodableExtensions.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CodableExtensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/CodableExtensions.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/RestKit/JSON.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/JSON.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestKit/JSON.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/JSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/JSON.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/RestKit/JSONWrapper.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/JSONWrapper.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestKit/JSONWrapper.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/JSONWrapper~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/JSONWrapper.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/RestKit/MultipartFormData.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MultipartFormData.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestKit/MultipartFormData.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MultipartFormData~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/MultipartFormData.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/RestKit/RestError.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestError.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestKit/RestError.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestError~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestError.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/RestKit/RestRequest.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestRequest.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestKit/RestRequest.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestRequest.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/RestKit/RestToken.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestToken.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestKit/RestToken.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestToken~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestToken.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/swift-sdk.git--7822324263394978032/Source/ConversationV1/RestKit/RestUtilities.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestUtilities.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestKit/RestUtilities.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestUtilities~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/ConversationV1.build/RestUtilities.swiftdeps"
+  }
+}

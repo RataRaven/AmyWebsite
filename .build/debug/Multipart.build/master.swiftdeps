@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "7dc6f40ced85446f9b248821c4eb8faa"
+build_time: [1511013383, 226983000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/BoundaryParser.swift": [1510783647, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/HeaderParser.swift": [1510783647, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Multipart+BytesConvertible.swift": [1510783647, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Parser.swift": [1511013192, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Part.swift": [1510783647, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Serializer.swift": [1510783647, 0]

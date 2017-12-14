@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "7a7b61a5d2b14360084ab79bd9c038a9"
+build_time: [1510828648, 94054000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable+Subscripting.swift": [1510783647, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable.swift": [1510783647, 0]

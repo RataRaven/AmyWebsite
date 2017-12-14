@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "9045867742cb6d12a64e2ffe0660c86d"
+build_time: [1511007507, 315483000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/CacheProtocol.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/MemoryCache.swift": [1510783644, 0]

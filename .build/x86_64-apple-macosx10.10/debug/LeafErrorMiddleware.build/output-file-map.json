@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafErrorMiddleware.build/master.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/leaf-error-middleware.git--3745469976239274681/Sources/LeafErrorMiddleware/LeafErrorMiddleware.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafErrorMiddleware.build/LeafErrorMiddleware.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafErrorMiddleware.build/LeafErrorMiddleware.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafErrorMiddleware.build/LeafErrorMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafErrorMiddleware.build/LeafErrorMiddleware.swiftdeps"
+  }
+}

@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "4306fa03a38c463d3aa83d8f18a64c3d"
+build_time: [1511013333, 830658000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/random.git--3118593962244350674/Sources/Random/Array+Random.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/random.git--3118593962244350674/Sources/Random/EmptyInitializable.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/random.git--3118593962244350674/Sources/Random/Exports.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/random.git--3118593962244350674/Sources/Random/OSRandom.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/random.git--3118593962244350674/Sources/Random/RandomProtocol.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/random.git--3118593962244350674/Sources/Random/URandom.swift": [1510783644, 0]

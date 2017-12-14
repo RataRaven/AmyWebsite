@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "13331d38aceac7c2367aa0d5e2047d9c"
+build_time: [1511013338, 40273000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/BCryptError.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Base64.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Convenience.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Export.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Hash.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Keys.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Parser.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Salt.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Serializer.swift": [1510783651, 0]

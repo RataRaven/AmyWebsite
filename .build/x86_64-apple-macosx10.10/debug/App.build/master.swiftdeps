@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "8a86a827f26aa1dbb569b8c16ad35e32"
+build_time: [1511033210, 195418000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Controllers/PostController.swift": [1510783513, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Controllers/Room.swift": [1511033176, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Controllers/String+Truncate.swift": [1511032239, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Controllers/WebSocket+JSON.swift": [1511029360, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Controllers/Webcontroller.swift": [1511033092, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Models/Post.swift": [1510783513, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Routes/Routes.swift": [1510848846, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Setup/Config+Setup.swift": [1510845855, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Setup/Droplet+Setup.swift": [1510783513, 0]

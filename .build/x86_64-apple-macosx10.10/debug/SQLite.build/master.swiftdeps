@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "00446b7685ac0e8ba60a5a9b4dd3205f"
+build_time: [1511013354, 924241000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Result.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Statement.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/StatusError.swift": [1510783650, 0]

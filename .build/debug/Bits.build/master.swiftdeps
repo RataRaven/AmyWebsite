@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "024c659b92afed5fa5c3a97b8acb31e6"
+build_time: [1510828647, 481295000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Aliases.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Base64Encoder.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+Alphabet.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+ControlCharacters.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+Convenience.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+PatternMatching.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+Random.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+UTF8Numbers.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/ByteSequence+Conversions.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Bytes+Base64.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Bytes+Hex.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Bytes+Percent.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/BytesConvertible.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Data+BytesConvertible.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/HexEncoder.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Operators.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/String+BytesConvertible.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/UnsignedInteger+BytesConvertible.swift": [1510783651, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/UnsignedInteger+Shifting.swift": [1510783651, 0]

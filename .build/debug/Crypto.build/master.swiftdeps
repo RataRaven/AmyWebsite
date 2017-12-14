@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "ad11e534326fa2805dafda8bc13c24e9"
+build_time: [1511013338, 588364000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher+Method.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/ByteStream.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Exports.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Helpers.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC+Method.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash+Method.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Hash+Random.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/LibreSSLError.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/PseudoRandom.swift": [1510783650, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Random.swift": [1510783650, 0]

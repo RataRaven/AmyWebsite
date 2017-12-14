@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "7ceb0096338fc63c616c4536f89e6ca4"
+build_time: [1511007578, 569109000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/leaf-error-middleware.git--3745469976239274681/Sources/LeafErrorMiddleware/LeafErrorMiddleware.swift": [1510850601, 0]

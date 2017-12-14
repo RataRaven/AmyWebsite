@@ -1,0 +1,388 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CreateDialogNode"
+provides-nominal:
+- "14ConversationV116CreateDialogNodeV"
+- "14ConversationV116CreateDialogNodeV0E4TypeO"
+- "14ConversationV116CreateDialogNodeV9EventNameO"
+provides-member:
+- ["14ConversationV116CreateDialogNodeV", ""]
+- ["14ConversationV116CreateDialogNodeV0E4TypeO", ""]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "Array"
+- "AssignmentPrecedence"
+- "Codable"
+- !private "CodingKey"
+- "CreateDialogNode"
+- "Decoder"
+- "DialogNodeAction"
+- "DialogNodeNextStep"
+- "Encoder"
+- "JSON"
+- "String"
+- "StringLiteralType"
+- !private "~="
+depends-member:
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s13BinaryIntegerP", "hashValue"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "hashValue"]
+- ["s7CVarArgP", "init"]
+- !private ["s9CodingKeyP", "RawValue"]
+- !private ["s9CodingKeyP", "actions"]
+- !private ["s9CodingKeyP", "conditions"]
+- !private ["s9CodingKeyP", "context"]
+- !private ["s9CodingKeyP", "description"]
+- !private ["s9CodingKeyP", "dialogNode"]
+- !private ["s9CodingKeyP", "eventName"]
+- !private ["s9CodingKeyP", "hashValue"]
+- !private ["s9CodingKeyP", "init"]
+- !private ["s9CodingKeyP", "intValue"]
+- !private ["s9CodingKeyP", "metadata"]
+- !private ["s9CodingKeyP", "nextStep"]
+- !private ["s9CodingKeyP", "nodeType"]
+- !private ["s9CodingKeyP", "output"]
+- !private ["s9CodingKeyP", "parent"]
+- !private ["s9CodingKeyP", "previousSibling"]
+- !private ["s9CodingKeyP", "rawValue"]
+- !private ["s9CodingKeyP", "stringValue"]
+- !private ["s9CodingKeyP", "title"]
+- !private ["s9CodingKeyP", "variable"]
+- !private ["s9CodingKeyP", ""]
+- ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "hashValue"]
+- ["s10ComparableP", "init"]
+- !private ["14ConversationV116CreateDialogNodeV", "CodingKey"]
+- !private ["14ConversationV116CreateDialogNodeV", "CodingKeys"]
+- ["14ConversationV116CreateDialogNodeV", "Decoder"]
+- ["14ConversationV116CreateDialogNodeV", "DialogNodeAction"]
+- ["14ConversationV116CreateDialogNodeV", "DialogNodeNextStep"]
+- ["14ConversationV116CreateDialogNodeV", "Encoder"]
+- ["14ConversationV116CreateDialogNodeV", "EventName"]
+- ["14ConversationV116CreateDialogNodeV", "JSON"]
+- ["14ConversationV116CreateDialogNodeV", "NodeType"]
+- ["14ConversationV116CreateDialogNodeV", "String"]
+- ["14ConversationV116CreateDialogNodeV", "actions"]
+- ["14ConversationV116CreateDialogNodeV", "conditions"]
+- ["14ConversationV116CreateDialogNodeV", "context"]
+- ["14ConversationV116CreateDialogNodeV", "deinit"]
+- ["14ConversationV116CreateDialogNodeV", "description"]
+- ["14ConversationV116CreateDialogNodeV", "dialogNode"]
+- ["14ConversationV116CreateDialogNodeV", "encode"]
+- ["14ConversationV116CreateDialogNodeV", "eventName"]
+- ["14ConversationV116CreateDialogNodeV", "init"]
+- ["14ConversationV116CreateDialogNodeV", "metadata"]
+- ["14ConversationV116CreateDialogNodeV", "nextStep"]
+- ["14ConversationV116CreateDialogNodeV", "nodeType"]
+- ["14ConversationV116CreateDialogNodeV", "output"]
+- ["14ConversationV116CreateDialogNodeV", "parent"]
+- ["14ConversationV116CreateDialogNodeV", "previousSibling"]
+- ["14ConversationV116CreateDialogNodeV", "title"]
+- ["14ConversationV116CreateDialogNodeV", "variable"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "hashValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "hashValue"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s9DecodableP", "CodingKeys"]
+- !private ["s9DecodableP", "DialogNodeAction"]
+- !private ["s9DecodableP", "DialogNodeNextStep"]
+- !private ["s9DecodableP", "JSON"]
+- !private ["s9DecodableP", "String"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "actions"]
+- !private ["s9DecodableP", "conditions"]
+- !private ["s9DecodableP", "context"]
+- !private ["s9DecodableP", "description"]
+- !private ["s9DecodableP", "dialogNode"]
+- ["s9DecodableP", "encode"]
+- !private ["s9DecodableP", "eventName"]
+- !private ["s9DecodableP", "hashValue"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "metadata"]
+- !private ["s9DecodableP", "nextStep"]
+- !private ["s9DecodableP", "nodeType"]
+- !private ["s9DecodableP", "output"]
+- !private ["s9DecodableP", "parent"]
+- !private ["s9DecodableP", "previousSibling"]
+- !private ["s9DecodableP", "title"]
+- !private ["s9DecodableP", "variable"]
+- ["s9DecodableP", ""]
+- !private ["s7DecoderP", "container"]
+- !private ["14ConversationV118DialogNodeNextStepV", "deinit"]
+- !private ["s9EncodableP", "CodingKeys"]
+- !private ["s9EncodableP", "DialogNodeAction"]
+- !private ["s9EncodableP", "DialogNodeNextStep"]
+- !private ["s9EncodableP", "JSON"]
+- !private ["s9EncodableP", "String"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "actions"]
+- !private ["s9EncodableP", "conditions"]
+- !private ["s9EncodableP", "context"]
+- !private ["s9EncodableP", "description"]
+- !private ["s9EncodableP", "dialogNode"]
+- ["s9EncodableP", "encode"]
+- !private ["s9EncodableP", "eventName"]
+- !private ["s9EncodableP", "hashValue"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "metadata"]
+- !private ["s9EncodableP", "nextStep"]
+- !private ["s9EncodableP", "nodeType"]
+- !private ["s9EncodableP", "output"]
+- !private ["s9EncodableP", "parent"]
+- !private ["s9EncodableP", "previousSibling"]
+- !private ["s9EncodableP", "title"]
+- !private ["s9EncodableP", "variable"]
+- ["s9EncodableP", ""]
+- !private ["s7EncoderP", "container"]
+- ["s9EquatableP", "RawValue"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "actions"]
+- !private ["s9EquatableP", "conditions"]
+- !private ["s9EquatableP", "context"]
+- !private ["s9EquatableP", "description"]
+- !private ["s9EquatableP", "dialogNode"]
+- !private ["s9EquatableP", "eventName"]
+- ["s9EquatableP", "hashValue"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "intValue"]
+- !private ["s9EquatableP", "metadata"]
+- !private ["s9EquatableP", "nextStep"]
+- !private ["s9EquatableP", "nodeType"]
+- !private ["s9EquatableP", "output"]
+- !private ["s9EquatableP", "parent"]
+- !private ["s9EquatableP", "previousSibling"]
+- ["s9EquatableP", "rawValue"]
+- !private ["s9EquatableP", "stringValue"]
+- !private ["s9EquatableP", "title"]
+- !private ["s9EquatableP", "variable"]
+- ["s9EquatableP", ""]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "RawValue"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "deinit"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "filled"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "filledMultiple"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "focus"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "generic"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "hashValue"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "init"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "input"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "nomatch"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "nomatchResponsesDepleted"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "rawValue"]
+- ["14ConversationV116CreateDialogNodeV9EventNameO", "validate"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "hashValue"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "hashValue"]
+- ["s8HashableP", "RawValue"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "actions"]
+- !private ["s8HashableP", "conditions"]
+- !private ["s8HashableP", "context"]
+- !private ["s8HashableP", "description"]
+- !private ["s8HashableP", "dialogNode"]
+- !private ["s8HashableP", "eventName"]
+- ["s8HashableP", "hashValue"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "intValue"]
+- !private ["s8HashableP", "metadata"]
+- !private ["s8HashableP", "nextStep"]
+- !private ["s8HashableP", "nodeType"]
+- !private ["s8HashableP", "output"]
+- !private ["s8HashableP", "parent"]
+- !private ["s8HashableP", "previousSibling"]
+- ["s8HashableP", "rawValue"]
+- !private ["s8HashableP", "stringValue"]
+- !private ["s8HashableP", "title"]
+- !private ["s8HashableP", "variable"]
+- ["s8HashableP", ""]
+- !private ["Si", "hashValue"]
+- !private ["14ConversationV113JSONDecodableP", "_getBuiltinLogicValue"]
+- !private ["14ConversationV113JSONDecodableP", "hashValue"]
+- ["14ConversationV113JSONDecodableP", "init"]
+- !private ["14ConversationV112JSONPathTypeP", "hashValue"]
+- ["14ConversationV112JSONPathTypeP", "init"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "hashValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "hashValue"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "init"]
+- ["So9NSCopyingP", "init"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So16NSMutableCopyingP", "init"]
+- ["So16NSObjectProtocolP", "init"]
+- ["So14NSSecureCodingP", "init"]
+- ["So8NSStringC", "init"]
+- ["14ConversationV116CreateDialogNodeV0E4TypeO", "RawValue"]
+- ["14ConversationV116CreateDialogNodeV0E4TypeO", "deinit"]
+- ["14ConversationV116CreateDialogNodeV0E4TypeO", "eventHandler"]
+- ["14ConversationV116CreateDialogNodeV0E4TypeO", "frame"]
+- ["14ConversationV116CreateDialogNodeV0E4TypeO", "hashValue"]
+- ["14ConversationV116CreateDialogNodeV0E4TypeO", "init"]
+- ["14ConversationV116CreateDialogNodeV0E4TypeO", "rawValue"]
+- ["14ConversationV116CreateDialogNodeV0E4TypeO", "responseCondition"]
+- ["14ConversationV116CreateDialogNodeV0E4TypeO", "slot"]
+- ["14ConversationV116CreateDialogNodeV0E4TypeO", "standard"]
+- !private ["s7NumericP", "hashValue"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["s16RawRepresentableP", "RawValue"]
+- !private ["s16RawRepresentableP", "actions"]
+- !private ["s16RawRepresentableP", "conditions"]
+- !private ["s16RawRepresentableP", "context"]
+- !private ["s16RawRepresentableP", "description"]
+- !private ["s16RawRepresentableP", "dialogNode"]
+- !private ["s16RawRepresentableP", "eventName"]
+- ["s16RawRepresentableP", "hashValue"]
+- ["s16RawRepresentableP", "init"]
+- !private ["s16RawRepresentableP", "intValue"]
+- !private ["s16RawRepresentableP", "metadata"]
+- !private ["s16RawRepresentableP", "nextStep"]
+- !private ["s16RawRepresentableP", "nodeType"]
+- !private ["s16RawRepresentableP", "output"]
+- !private ["s16RawRepresentableP", "parent"]
+- !private ["s16RawRepresentableP", "previousSibling"]
+- ["s16RawRepresentableP", "rawValue"]
+- !private ["s16RawRepresentableP", "stringValue"]
+- !private ["s16RawRepresentableP", "title"]
+- !private ["s16RawRepresentableP", "variable"]
+- ["s16RawRepresentableP", ""]
+- ["s8SequenceP", "init"]
+- !private ["s13SignedIntegerP", "hashValue"]
+- !private ["s13SignedNumericP", "hashValue"]
+- !private ["s10StrideableP", "hashValue"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s18_BitwiseOperationsP", "hashValue"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "hashValue"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s10_IndexableP", "init"]
+- ["s14_IndexableBaseP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "hashValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s11_StrideableP", "hashValue"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "s9CodingKeyP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "14ConversationV116CreateDialogNodeV"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "s7DecoderP"
+- !private "14ConversationV118DialogNodeNextStepV"
+- "s9EncodableP"
+- !private "s7EncoderP"
+- "s9EquatableP"
+- "14ConversationV116CreateDialogNodeV9EventNameO"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "s8HashableP"
+- !private "Si"
+- "14ConversationV113JSONDecodableP"
+- "14ConversationV112JSONPathTypeP"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- "14ConversationV116CreateDialogNodeV0E4TypeO"
+- !private "s7NumericP"
+- "s26RangeReplaceableCollectionP"
+- "s16RawRepresentableP"
+- "s8SequenceP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "3be9712158b78ce3228e64b43c96e009"

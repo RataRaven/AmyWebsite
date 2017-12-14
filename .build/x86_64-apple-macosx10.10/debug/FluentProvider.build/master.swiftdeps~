@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "2a34607c6dcbd6af683aa8c26ddcddaa"
+build_time: [1511013025, 878311000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Cache.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Config+Driver.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Config+Preparation.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Droplet+Prepare.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Droplet+Storage.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Exports.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/Filterable.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/FilterableKey+String.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/FilterableKey.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/Query+Filterable.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Model.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Node+Row+JSON.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Pagination.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Prepare.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Provider.swift": [1511012736, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/SQLite+Config.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/Request+Updateable.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/Updateable.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/UpdateableKey.swift": [1510783646, 0]

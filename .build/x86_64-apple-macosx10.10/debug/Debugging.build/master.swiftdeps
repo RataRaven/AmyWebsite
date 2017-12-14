@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "3e8add238c8cf82cbbae468e511faa7c"
+build_time: [1513104848, 927270000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amyWebsite/amy_website/.build/checkouts/debugging.git-4365319567167379684/Sources/Debugging/Debuggable.swift": !dirty [1513101808, 0]

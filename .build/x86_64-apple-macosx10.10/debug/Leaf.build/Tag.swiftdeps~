@@ -1,0 +1,75 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Tag"
+provides-nominal:
+- "4Leaf3TagP"
+provides-member:
+- ["4Leaf3TagP", ""]
+- ["4Leaf3TagP", "compileBody"]
+- ["4Leaf3TagP", "postCompile"]
+- ["4Leaf3TagP", "postCompile"]
+- ["4Leaf3TagP", "makeArguments"]
+- ["4Leaf3TagP", "shouldRender"]
+- ["4Leaf3TagP", "render"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "ArgumentList"
+- "Bool"
+- "Bytes"
+- "Context"
+- "Leaf"
+- "Node"
+- "Stem"
+- "String"
+- "Tag"
+- "TagTemplate"
+depends-member:
+- !private ["s23CustomStringConvertibleP", "makeArguments"]
+- !private ["s9EquatableP", "makeArguments"]
+- !private ["4Leaf4StemC", "render"]
+- !private ["4Leaf4StemC", "spawnLeaf"]
+- ["4Leaf3TagP", "ArgumentList"]
+- ["4Leaf3TagP", "Bool"]
+- ["4Leaf3TagP", "Bytes"]
+- ["4Leaf3TagP", "Context"]
+- ["4Leaf3TagP", "Leaf"]
+- ["4Leaf3TagP", "Node"]
+- ["4Leaf3TagP", "Stem"]
+- ["4Leaf3TagP", "String"]
+- ["4Leaf3TagP", "TagTemplate"]
+- ["4Leaf3TagP", "compileBody"]
+- ["4Leaf3TagP", "makeArguments"]
+- ["4Leaf3TagP", "name"]
+- ["4Leaf3TagP", "postCompile"]
+- ["4Leaf3TagP", "render"]
+- ["4Leaf3TagP", "run"]
+- ["4Leaf3TagP", "shouldRender"]
+- !private ["4Leaf11TagTemplateC", "makeArguments"]
+depends-nominal:
+- !private "s23CustomStringConvertibleP"
+- !private "s9EquatableP"
+- !private "4Leaf4StemC"
+- "4Leaf3TagP"
+- !private "4Leaf11TagTemplateC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Node.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/PathIndexable.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+interface-hash: "76e90630937b153fd8ba4fe40fdc632f"

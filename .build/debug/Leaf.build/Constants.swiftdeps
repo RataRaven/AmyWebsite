@@ -1,0 +1,229 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TOKEN"
+- "SUFFIX"
+- "defaultTags"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "Byte"
+- "Else"
+- "Embed"
+- "Equal"
+- "Export"
+- "Extend"
+- "If"
+- "Import"
+- "Index"
+- "Loop"
+- "Raw"
+- "SUFFIX"
+- "String"
+- "StringLiteralType"
+- "TOKEN"
+- "Tag"
+- "Uppercased"
+- "Variable"
+- "defaultTags"
+depends-member:
+- ["4Leaf8BasicTagP", "init"]
+- ["s23BidirectionalCollectionP", "init"]
+- ["s13BinaryIntegerP", "numberSign"]
+- ["4Bits16BytesConvertibleP", "init"]
+- ["4Bits16BytesConvertibleP", "numberSign"]
+- ["4Bits18BytesInitializableP", "init"]
+- ["4Bits18BytesInitializableP", "numberSign"]
+- ["4Bits18BytesRepresentableP", "init"]
+- ["4Bits18BytesRepresentableP", "numberSign"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "numberSign"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- ["s10ComparableP", "numberSign"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "numberSign"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "numberSign"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "numberSign"]
+- ["s9DecodableP", "init"]
+- ["s9DecodableP", "numberSign"]
+- ["4Leaf4ElseC", "deinit"]
+- ["4Leaf4ElseC", "init"]
+- ["4Leaf5EmbedC", "deinit"]
+- ["4Leaf5EmbedC", "init"]
+- ["s9EncodableP", "init"]
+- ["s9EncodableP", "numberSign"]
+- ["4Leaf5EqualC", "deinit"]
+- ["4Leaf5EqualC", "init"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "numberSign"]
+- ["4Leaf6ExportC", "deinit"]
+- ["4Leaf6ExportC", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", "numberSign"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["4Leaf6ExtendC", "deinit"]
+- ["4Leaf6ExtendC", "init"]
+- ["s17FixedWidthIntegerP", "numberSign"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "numberSign"]
+- ["4Leaf2IfC", "deinit"]
+- ["4Leaf2IfC", "init"]
+- ["4Leaf6ImportC", "deinit"]
+- ["4Leaf6ImportC", "init"]
+- ["4Leaf5IndexC", "deinit"]
+- ["4Leaf5IndexC", "init"]
+- ["4Leaf4LoopC", "deinit"]
+- ["4Leaf4LoopC", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "numberSign"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "init"]
+- ["So9NSCopyingP", "init"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So16NSMutableCopyingP", "init"]
+- ["So16NSObjectProtocolP", "init"]
+- ["So14NSSecureCodingP", "init"]
+- ["So8NSStringC", "init"]
+- ["4Node0A13InitializableP", "init"]
+- ["4Node0A13InitializableP", "numberSign"]
+- ["4Node0A13RepresentableP", "init"]
+- ["4Node0A13RepresentableP", "numberSign"]
+- ["s7NumericP", "numberSign"]
+- ["13PathIndexable0A7IndexerP", "init"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["4Leaf3RawC", "deinit"]
+- ["4Leaf3RawC", "init"]
+- ["s8SequenceP", "init"]
+- ["s10StrideableP", "numberSign"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["4Leaf3TagP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s5UInt8V", "numberSign"]
+- ["s15UnsignedIntegerP", "numberSign"]
+- ["4Leaf10UppercasedC", "deinit"]
+- ["4Leaf10UppercasedC", "init"]
+- ["4Leaf8VariableC", "deinit"]
+- ["4Leaf8VariableC", "init"]
+- ["s23_BidirectionalIndexableP", "init"]
+- ["s18_BitwiseOperationsP", "numberSign"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "numberSign"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s10_IndexableP", "init"]
+- ["s14_IndexableBaseP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "numberSign"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- ["s11_StrideableP", "numberSign"]
+- ["s14_StringElementP", "numberSign"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "4Leaf8BasicTagP"
+- "s23BidirectionalCollectionP"
+- "s13BinaryIntegerP"
+- "4Bits16BytesConvertibleP"
+- "4Bits18BytesInitializableP"
+- "4Bits18BytesRepresentableP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "4Leaf4ElseC"
+- "4Leaf5EmbedC"
+- "s9EncodableP"
+- "4Leaf5EqualC"
+- "s9EquatableP"
+- "4Leaf6ExportC"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "4Leaf6ExtendC"
+- "s17FixedWidthIntegerP"
+- "s8HashableP"
+- "4Leaf2IfC"
+- "4Leaf6ImportC"
+- "4Leaf5IndexC"
+- "4Leaf4LoopC"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- "4Node0A13InitializableP"
+- "4Node0A13RepresentableP"
+- "s7NumericP"
+- "13PathIndexable0A7IndexerP"
+- "s26RangeReplaceableCollectionP"
+- "4Leaf3RawC"
+- "s8SequenceP"
+- "s10StrideableP"
+- "SS"
+- "s14StringProtocolP"
+- "4Leaf3TagP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s5UInt8V"
+- "s15UnsignedIntegerP"
+- "4Leaf10UppercasedC"
+- "4Leaf8VariableC"
+- "s23_BidirectionalIndexableP"
+- "s18_BitwiseOperationsP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s26_RangeReplaceableIndexableP"
+- "s11_StrideableP"
+- "s14_StringElementP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Node.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/PathIndexable.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+interface-hash: "1289cfd58b25926d46a73b9d095793ed"

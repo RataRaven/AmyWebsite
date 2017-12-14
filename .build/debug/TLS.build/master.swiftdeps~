@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "3859ee81cf0bc0458b161661dd3a0333"
+build_time: [1511007522, 633513000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Certificates.swift": [1510783652, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ClientSocket.swift": [1510783652, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Context.swift": [1510783652, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Error.swift": [1510783652, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Exports.swift": [1510783652, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/InternetSocket.swift": [1510783652, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Mode.swift": [1510783652, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ReadableSocket.swift": [1510783652, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ServerSocket.swift": [1510783652, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Socket.swift": [1510783652, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Utilities.swift": [1510783652, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/WriteableSocket.swift": [1510783652, 0]

@@ -1,0 +1,111 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "List"
+provides-nominal:
+- "4Leaf4ListC"
+provides-member:
+- ["4Leaf4ListC", ""]
+- ["4Leaf4ListC", "init"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnyIterator"
+- "AssignmentPrecedence"
+- "Link"
+- "List"
+- "Sequence"
+depends-member:
+- !private ["s11AnyIteratorV", "init"]
+- !private ["s16IteratorProtocolP", "init"]
+- !private ["4Leaf4LinkC", "addChild"]
+- !private ["4Leaf4LinkC", "child"]
+- !private ["4Leaf4LinkC", "dropParent"]
+- !private ["4Leaf4LinkC", "extend"]
+- !private ["4Leaf4LinkC", "init"]
+- !private ["4Leaf4LinkC", "tail"]
+- !private ["4Leaf4LinkC", "value"]
+- ["4Leaf4ListC", "AnyIterator"]
+- ["4Leaf4ListC", "Element"]
+- ["4Leaf4ListC", "Iterator"]
+- ["4Leaf4ListC", "Link"]
+- ["4Leaf4ListC", "Sequence"]
+- ["4Leaf4ListC", "SubSequence"]
+- ["4Leaf4ListC", "Value"]
+- ["4Leaf4ListC", "_copyContents"]
+- ["4Leaf4ListC", "_copyToContiguousArray"]
+- ["4Leaf4ListC", "_customContainsEquatableElement"]
+- ["4Leaf4ListC", "_preprocessingPass"]
+- ["4Leaf4ListC", "deinit"]
+- ["4Leaf4ListC", "drop"]
+- ["4Leaf4ListC", "dropFirst"]
+- ["4Leaf4ListC", "dropLast"]
+- ["4Leaf4ListC", "filter"]
+- ["4Leaf4ListC", "forEach"]
+- ["4Leaf4ListC", "init"]
+- ["4Leaf4ListC", "insertAtTail"]
+- ["4Leaf4ListC", "insertAtTip"]
+- ["4Leaf4ListC", "makeIterator"]
+- ["4Leaf4ListC", "map"]
+- ["4Leaf4ListC", "prefix"]
+- ["4Leaf4ListC", "removeTail"]
+- ["4Leaf4ListC", "removeTip"]
+- ["4Leaf4ListC", "split"]
+- ["4Leaf4ListC", "suffix"]
+- ["4Leaf4ListC", "tip"]
+- ["4Leaf4ListC", "underestimatedCount"]
+- !private ["s8SequenceP", "AnyIterator"]
+- ["s8SequenceP", "Element"]
+- ["s8SequenceP", "Iterator"]
+- !private ["s8SequenceP", "Link"]
+- ["s8SequenceP", "SubSequence"]
+- ["s8SequenceP", "_copyContents"]
+- ["s8SequenceP", "_copyToContiguousArray"]
+- ["s8SequenceP", "_customContainsEquatableElement"]
+- ["s8SequenceP", "_preprocessingPass"]
+- !private ["s8SequenceP", "addChild"]
+- !private ["s8SequenceP", "child"]
+- ["s8SequenceP", "drop"]
+- ["s8SequenceP", "dropFirst"]
+- ["s8SequenceP", "dropLast"]
+- !private ["s8SequenceP", "dropParent"]
+- !private ["s8SequenceP", "extend"]
+- ["s8SequenceP", "filter"]
+- ["s8SequenceP", "forEach"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "insertAtTail"]
+- ["s8SequenceP", "makeIterator"]
+- ["s8SequenceP", "map"]
+- ["s8SequenceP", "prefix"]
+- ["s8SequenceP", "split"]
+- ["s8SequenceP", "suffix"]
+- !private ["s8SequenceP", "tail"]
+- !private ["s8SequenceP", "tip"]
+- ["s8SequenceP", "underestimatedCount"]
+- !private ["s8SequenceP", "value"]
+- ["s8SequenceP", ""]
+depends-nominal:
+- !private "s11AnyIteratorV"
+- !private "s16IteratorProtocolP"
+- !private "4Leaf4LinkC"
+- "4Leaf4ListC"
+- "s8SequenceP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Node.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/PathIndexable.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+interface-hash: "9462157f10ab91cceb77a93f0ae8eed4"

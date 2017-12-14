@@ -1,0 +1,196 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Buffer"
+provides-nominal:
+- "4Leaf6BufferV"
+provides-member:
+- ["4Leaf6BufferV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+="
+- !private "=="
+- "AssignmentPrecedence"
+- "Buffer"
+- "BufferProtocol"
+- "Byte"
+- "FloatLiteralType"
+- "IndexingIterator"
+- "Int"
+- "IntegerLiteralType"
+- "Sequence"
+depends-member:
+- !private ["Sa", "makeIterator"]
+- !private ["s23BidirectionalCollectionP", "makeIterator"]
+- !private ["s13BinaryIntegerP", "newLine"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["4Leaf6BufferV", "Byte"]
+- ["4Leaf6BufferV", "Element"]
+- ["4Leaf6BufferV", "IndexingIterator"]
+- ["4Leaf6BufferV", "Int"]
+- ["4Leaf6BufferV", "Sequence"]
+- !private ["4Leaf6BufferV", "buffer"]
+- ["4Leaf6BufferV", "column"]
+- ["4Leaf6BufferV", "current"]
+- ["4Leaf6BufferV", "deinit"]
+- !private ["4Leaf6BufferV", "getNext"]
+- ["4Leaf6BufferV", "init"]
+- ["4Leaf6BufferV", "line"]
+- ["4Leaf6BufferV", "moveForward"]
+- ["4Leaf6BufferV", "next"]
+- ["4Leaf6BufferV", "previous"]
+- ["4Leaf14BufferProtocolP", "Element"]
+- !private ["4Leaf14BufferProtocolP", "buffer"]
+- !private ["4Leaf14BufferProtocolP", "column"]
+- ["4Leaf14BufferProtocolP", "current"]
+- !private ["4Leaf14BufferProtocolP", "getNext"]
+- !private ["4Leaf14BufferProtocolP", "line"]
+- ["4Leaf14BufferProtocolP", "moveForward"]
+- ["4Leaf14BufferProtocolP", "next"]
+- ["4Leaf14BufferProtocolP", "previous"]
+- ["4Leaf14BufferProtocolP", ""]
+- !private ["4Bits16BytesConvertibleP", "newLine"]
+- !private ["4Bits18BytesInitializableP", "newLine"]
+- !private ["4Bits18BytesRepresentableP", "newLine"]
+- !private ["s7CVarArgP", "makeIterator"]
+- !private ["s7CVarArgP", "newLine"]
+- !private ["s10CollectionP", "makeIterator"]
+- !private ["s10ComparableP", "newLine"]
+- !private ["s28CustomDebugStringConvertibleP", "makeIterator"]
+- !private ["s28CustomDebugStringConvertibleP", "newLine"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "newLine"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "makeIterator"]
+- !private ["s17CustomReflectableP", "newLine"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "makeIterator"]
+- !private ["s23CustomStringConvertibleP", "newLine"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "makeIterator"]
+- !private ["s9DecodableP", "newLine"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "makeIterator"]
+- !private ["s9EncodableP", "newLine"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "newLine"]
+- !private ["s25ExpressibleByArrayLiteralP", "makeIterator"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "newLine"]
+- !private ["s23ExpressibleByNilLiteralP", "newLine"]
+- !private ["s17FixedWidthIntegerP", "newLine"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "newLine"]
+- !private ["s16IndexingIteratorV", "next"]
+- !private ["s16IteratorProtocolP", "next"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "newLine"]
+- !private ["s17MutableCollectionP", "makeIterator"]
+- !private ["4Node0A13InitializableP", "_getBuiltinLogicValue"]
+- !private ["4Node0A13InitializableP", "makeIterator"]
+- !private ["4Node0A13InitializableP", "newLine"]
+- !private ["4Node0A13RepresentableP", "_getBuiltinLogicValue"]
+- !private ["4Node0A13RepresentableP", "makeIterator"]
+- !private ["4Node0A13RepresentableP", "newLine"]
+- !private ["s7NumericP", "newLine"]
+- !private ["Sq", "newLine"]
+- !private ["s22RandomAccessCollectionP", "makeIterator"]
+- !private ["s26RangeReplaceableCollectionP", "makeIterator"]
+- !private ["s8SequenceP", "array"]
+- !private ["s8SequenceP", "makeIterator"]
+- !private ["s8SequenceP", "next"]
+- !private ["s10StrideableP", "newLine"]
+- !private ["s5UInt8V", "newLine"]
+- !private ["s15UnsignedIntegerP", "newLine"]
+- !private ["s14_ArrayProtocolP", "makeIterator"]
+- !private ["s23_BidirectionalIndexableP", "makeIterator"]
+- !private ["s18_BitwiseOperationsP", "newLine"]
+- !private ["s24_DestructorSafeContainerP", "makeIterator"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "newLine"]
+- !private ["s10_IndexableP", "makeIterator"]
+- !private ["s14_IndexableBaseP", "makeIterator"]
+- !private ["s17_MutableIndexableP", "makeIterator"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "makeIterator"]
+- !private ["s21_ObjectiveCBridgeableP", "newLine"]
+- !private ["s26_OptionalNilComparisonTypeV", "newLine"]
+- !private ["s22_RandomAccessIndexableP", "makeIterator"]
+- !private ["s26_RangeReplaceableIndexableP", "makeIterator"]
+- !private ["s11_StrideableP", "newLine"]
+- !private ["s14_StringElementP", "newLine"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- "4Leaf6BufferV"
+- "4Leaf14BufferProtocolP"
+- !private "4Bits16BytesConvertibleP"
+- !private "4Bits18BytesInitializableP"
+- !private "4Bits18BytesRepresentableP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "s8HashableP"
+- !private "s16IndexingIteratorV"
+- !private "s16IteratorProtocolP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s17MutableCollectionP"
+- !private "4Node0A13InitializableP"
+- !private "4Node0A13RepresentableP"
+- !private "s7NumericP"
+- !private "Sq"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "s10StrideableP"
+- !private "s5UInt8V"
+- !private "s15UnsignedIntegerP"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_OptionalNilComparisonTypeV"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- !private "s14_StringElementP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Node.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/PathIndexable.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+interface-hash: "f91472cbcbdf08be60dbd5ee9cfc85e2"

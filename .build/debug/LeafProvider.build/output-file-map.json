@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/master.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/leaf-provider.git--3406657661258480084/Sources/LeafProvider/Keys.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/Keys.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/Keys.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/Keys~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/Keys.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/leaf-provider.git--3406657661258480084/Sources/LeafProvider/LeafProviderError.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/LeafProviderError.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/LeafProviderError.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/LeafProviderError~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/LeafProviderError.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/leaf-provider.git--3406657661258480084/Sources/LeafProvider/LeafRenderer.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/LeafRenderer.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/LeafRenderer.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/LeafRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/LeafRenderer.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/leaf-provider.git--3406657661258480084/Sources/LeafProvider/Provider.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/Provider.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/Provider.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/Provider~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/LeafProvider.build/Provider.swiftdeps"
+  }
+}

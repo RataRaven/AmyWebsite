@@ -1,0 +1,174 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["s8SequenceP", ""]
+- ["s8SequenceP", "whitespace"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Byte"
+- "Bytes"
+- "Sequence"
+depends-member:
+- !private ["s13BinaryIntegerP", "carriageReturn"]
+- !private ["s13BinaryIntegerP", "horizontalTab"]
+- !private ["s13BinaryIntegerP", "newLine"]
+- !private ["s13BinaryIntegerP", "space"]
+- !private ["4Bits16BytesConvertibleP", "carriageReturn"]
+- !private ["4Bits16BytesConvertibleP", "horizontalTab"]
+- !private ["4Bits16BytesConvertibleP", "newLine"]
+- !private ["4Bits16BytesConvertibleP", "space"]
+- !private ["4Bits18BytesInitializableP", "carriageReturn"]
+- !private ["4Bits18BytesInitializableP", "horizontalTab"]
+- !private ["4Bits18BytesInitializableP", "newLine"]
+- !private ["4Bits18BytesInitializableP", "space"]
+- !private ["4Bits18BytesRepresentableP", "carriageReturn"]
+- !private ["4Bits18BytesRepresentableP", "horizontalTab"]
+- !private ["4Bits18BytesRepresentableP", "newLine"]
+- !private ["4Bits18BytesRepresentableP", "space"]
+- !private ["s7CVarArgP", "carriageReturn"]
+- !private ["s7CVarArgP", "horizontalTab"]
+- !private ["s7CVarArgP", "newLine"]
+- !private ["s7CVarArgP", "space"]
+- !private ["s10ComparableP", "carriageReturn"]
+- !private ["s10ComparableP", "horizontalTab"]
+- !private ["s10ComparableP", "newLine"]
+- !private ["s10ComparableP", "space"]
+- !private ["s29CustomPlaygroundQuickLookableP", "carriageReturn"]
+- !private ["s29CustomPlaygroundQuickLookableP", "horizontalTab"]
+- !private ["s29CustomPlaygroundQuickLookableP", "newLine"]
+- !private ["s29CustomPlaygroundQuickLookableP", "space"]
+- !private ["s17CustomReflectableP", "carriageReturn"]
+- !private ["s17CustomReflectableP", "horizontalTab"]
+- !private ["s17CustomReflectableP", "newLine"]
+- !private ["s17CustomReflectableP", "space"]
+- !private ["s23CustomStringConvertibleP", "carriageReturn"]
+- !private ["s23CustomStringConvertibleP", "horizontalTab"]
+- !private ["s23CustomStringConvertibleP", "newLine"]
+- !private ["s23CustomStringConvertibleP", "space"]
+- !private ["s9DecodableP", "carriageReturn"]
+- !private ["s9DecodableP", "horizontalTab"]
+- !private ["s9DecodableP", "newLine"]
+- !private ["s9DecodableP", "space"]
+- !private ["s9EncodableP", "carriageReturn"]
+- !private ["s9EncodableP", "horizontalTab"]
+- !private ["s9EncodableP", "newLine"]
+- !private ["s9EncodableP", "space"]
+- !private ["s9EquatableP", "carriageReturn"]
+- !private ["s9EquatableP", "horizontalTab"]
+- !private ["s9EquatableP", "newLine"]
+- !private ["s9EquatableP", "space"]
+- !private ["s27ExpressibleByIntegerLiteralP", "carriageReturn"]
+- !private ["s27ExpressibleByIntegerLiteralP", "horizontalTab"]
+- !private ["s27ExpressibleByIntegerLiteralP", "newLine"]
+- !private ["s27ExpressibleByIntegerLiteralP", "space"]
+- !private ["s17FixedWidthIntegerP", "carriageReturn"]
+- !private ["s17FixedWidthIntegerP", "horizontalTab"]
+- !private ["s17FixedWidthIntegerP", "newLine"]
+- !private ["s17FixedWidthIntegerP", "space"]
+- !private ["s8HashableP", "carriageReturn"]
+- !private ["s8HashableP", "horizontalTab"]
+- !private ["s8HashableP", "newLine"]
+- !private ["s8HashableP", "space"]
+- !private ["s25LosslessStringConvertibleP", "carriageReturn"]
+- !private ["s25LosslessStringConvertibleP", "horizontalTab"]
+- !private ["s25LosslessStringConvertibleP", "newLine"]
+- !private ["s25LosslessStringConvertibleP", "space"]
+- !private ["4Node0A13InitializableP", "carriageReturn"]
+- !private ["4Node0A13InitializableP", "horizontalTab"]
+- !private ["4Node0A13InitializableP", "newLine"]
+- !private ["4Node0A13InitializableP", "space"]
+- !private ["4Node0A13RepresentableP", "carriageReturn"]
+- !private ["4Node0A13RepresentableP", "horizontalTab"]
+- !private ["4Node0A13RepresentableP", "newLine"]
+- !private ["4Node0A13RepresentableP", "space"]
+- !private ["s7NumericP", "carriageReturn"]
+- !private ["s7NumericP", "horizontalTab"]
+- !private ["s7NumericP", "newLine"]
+- !private ["s7NumericP", "space"]
+- ["s8SequenceP", "Byte"]
+- ["s8SequenceP", "Bytes"]
+- ["s8SequenceP", "Iterator"]
+- ["s8SequenceP", "whitespace"]
+- !private ["s10StrideableP", "carriageReturn"]
+- !private ["s10StrideableP", "horizontalTab"]
+- !private ["s10StrideableP", "newLine"]
+- !private ["s10StrideableP", "space"]
+- !private ["s5UInt8V", "carriageReturn"]
+- !private ["s5UInt8V", "horizontalTab"]
+- !private ["s5UInt8V", "newLine"]
+- !private ["s5UInt8V", "space"]
+- !private ["s15UnsignedIntegerP", "carriageReturn"]
+- !private ["s15UnsignedIntegerP", "horizontalTab"]
+- !private ["s15UnsignedIntegerP", "newLine"]
+- !private ["s15UnsignedIntegerP", "space"]
+- !private ["s18_BitwiseOperationsP", "carriageReturn"]
+- !private ["s18_BitwiseOperationsP", "horizontalTab"]
+- !private ["s18_BitwiseOperationsP", "newLine"]
+- !private ["s18_BitwiseOperationsP", "space"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "carriageReturn"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "horizontalTab"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "newLine"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "space"]
+- !private ["s21_ObjectiveCBridgeableP", "carriageReturn"]
+- !private ["s21_ObjectiveCBridgeableP", "horizontalTab"]
+- !private ["s21_ObjectiveCBridgeableP", "newLine"]
+- !private ["s21_ObjectiveCBridgeableP", "space"]
+- !private ["s11_StrideableP", "carriageReturn"]
+- !private ["s11_StrideableP", "horizontalTab"]
+- !private ["s11_StrideableP", "newLine"]
+- !private ["s11_StrideableP", "space"]
+- !private ["s14_StringElementP", "carriageReturn"]
+- !private ["s14_StringElementP", "horizontalTab"]
+- !private ["s14_StringElementP", "newLine"]
+- !private ["s14_StringElementP", "space"]
+depends-nominal:
+- !private "s13BinaryIntegerP"
+- !private "4Bits16BytesConvertibleP"
+- !private "4Bits18BytesInitializableP"
+- !private "4Bits18BytesRepresentableP"
+- !private "s7CVarArgP"
+- !private "s10ComparableP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "4Node0A13InitializableP"
+- !private "4Node0A13RepresentableP"
+- !private "s7NumericP"
+- "s8SequenceP"
+- !private "s10StrideableP"
+- !private "s5UInt8V"
+- !private "s15UnsignedIntegerP"
+- !private "s18_BitwiseOperationsP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s11_StrideableP"
+- !private "s14_StringElementP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/libc.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Node.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/PathIndexable.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CHTTP.build/module.modulemap"
+- "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/CSQLite.build/module.modulemap"
+interface-hash: "0e29b0f53f9839ee7a4691ac92a68d83"

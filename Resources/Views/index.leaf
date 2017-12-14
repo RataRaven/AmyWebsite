@@ -1,0 +1,25 @@
+<!doctype html>
+<meta charset="UTF-8">
+<html lang="en">
+<html>
+    
+<head>
+    <title>This is our page title</title>
+</head>
+
+<h1>#(answer)!</h1> (the largest)
+
+
+<body>
+
+<form>
+    Ask Amy:<br>
+    <input type="text" name="question">
+        <br>
+    <input type="submit" value="Submit">
+
+</form>
+
+</body>
+
+</html>

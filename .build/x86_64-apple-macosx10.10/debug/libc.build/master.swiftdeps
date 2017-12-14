@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "76fa19fa59aaefb51d3ad0907a9467ea"
+build_time: [1513106747, 571303000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amyWebsite/amy_website/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": !dirty [1513090693, 0]

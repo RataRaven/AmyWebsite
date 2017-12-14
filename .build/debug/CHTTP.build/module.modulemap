@@ -1,0 +1,4 @@
+module CHTTP {
+    umbrella "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include"
+    export *
+}

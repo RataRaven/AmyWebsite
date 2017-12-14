@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "e328bd3cc5e9ed2c7226c4f882458248"
+build_time: [1511013387, 850790000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/CacheSessions.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/MemorySessions.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/Request+Session.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/Session.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsError.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsMiddleware.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsProtocol.swift": [1510783644, 0]

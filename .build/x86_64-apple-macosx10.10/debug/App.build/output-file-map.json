@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/master.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Controllers/PostController.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/PostController.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Controllers/PostController.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/PostController~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/PostController.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Controllers/Room.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Room.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Controllers/Room.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Room~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Room.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Controllers/String+Truncate.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/String+Truncate.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Controllers/String+Truncate.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/String+Truncate~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/String+Truncate.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Controllers/WebSocket+JSON.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/WebSocket+JSON.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Controllers/WebSocket+JSON.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/WebSocket+JSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/WebSocket+JSON.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Controllers/Webcontroller.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Webcontroller.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Controllers/Webcontroller.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Webcontroller~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Webcontroller.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Models/Post.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Post.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Models/Post.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Post~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Post.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Routes/Routes.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Routes.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Routes/Routes.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Routes.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Setup/Config+Setup.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Config+Setup.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Setup/Config+Setup.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Config+Setup~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Config+Setup.swiftdeps"
+  },
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/Sources/App/Setup/Droplet+Setup.swift": {
+    "dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Droplet+Setup.d",
+    "object": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Setup/Droplet+Setup.swift.o",
+    "swiftmodule": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Droplet+Setup~partial.swiftmodule",
+    "swift-dependencies": "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/x86_64-apple-macosx10.10/debug/App.build/Droplet+Setup.swiftdeps"
+  }
+}

@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "3d19aafb47fc15c35fe439fd104688f4"
+build_time: [1511007583, 141983000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/leaf-provider.git--3406657661258480084/Sources/LeafProvider/Keys.swift": [1510844553, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/leaf-provider.git--3406657661258480084/Sources/LeafProvider/LeafProviderError.swift": [1510844553, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/leaf-provider.git--3406657661258480084/Sources/LeafProvider/LeafRenderer.swift": [1510844553, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/leaf-provider.git--3406657661258480084/Sources/LeafProvider/Provider.swift": [1510844553, 0]

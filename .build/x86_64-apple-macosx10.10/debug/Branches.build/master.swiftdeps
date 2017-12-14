@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "d7c3cfc1eaa13dd7f0bae2bd6185f172"
+build_time: [1511013353, 120656000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/Branch+Paths.swift": [1510783648, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/Branch.swift": [1510783648, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/SubBranchMap.swift": [1510783648, 0]

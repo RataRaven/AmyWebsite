@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "aa952b597d06c710680b6216ecc08c79"
+build_time: [1511013021, 299660000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Arguments.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Directory.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigError.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigInitializable.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Env.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Node+Env.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/String+Env.swift": [1511012737, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Environment.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible+Merge.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Node+Merge.swift": [1510783644, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Source.swift": [1510783644, 0]

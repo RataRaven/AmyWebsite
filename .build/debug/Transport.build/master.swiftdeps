@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "a06f5ee20046049dec600d28044ae37f"
+build_time: [1511013333, 830246000]
+inputs:
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Exports.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ClientStream.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/InternetStream.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/Port.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ServerStream.swift": [1511013192, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/FoundationStream.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/ReadableStream.swift": [1511013192, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/Stream.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/StreamError.swift": [1510783646, 0]
+  "/Users/yangguang/Documents/XCODE/amy-website/amy_website/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/WriteableStream.swift": [1510783646, 0]

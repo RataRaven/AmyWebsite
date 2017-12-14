@@ -1,0 +1,280 @@
+826810de7ff13d7e49373679dd567b6f5ba120fb	not-for-merge	branch 'codegen/language-translator' of https://github.com/watson-developer-cloud/swift-sdk
+bd449604141e6761cb8215500b8d3846d298f8d5	not-for-merge	branch 'data-length-crash-TTS' of https://github.com/watson-developer-cloud/swift-sdk
+01c9221493bafeedf5075cf52ad449182c8a85a7	not-for-merge	branch 'master' of https://github.com/watson-developer-cloud/swift-sdk
+45ae5150cdd8f2f64529dd3e57c170e0709a0721	not-for-merge	branch 'tgb-swiftlint' of https://github.com/watson-developer-cloud/swift-sdk
+a0aabdf20c7ed3d2d5106e9b45c10491c10264fc	not-for-merge	'refs/pull/133/head' of https://github.com/watson-developer-cloud/swift-sdk
+106504507245441bc38d369bb89d8c64aec9ef8e	not-for-merge	'refs/pull/154/head' of https://github.com/watson-developer-cloud/swift-sdk
+1f96e3edd5e6cfccad926c856d24f1694c5912e8	not-for-merge	'refs/pull/154/merge' of https://github.com/watson-developer-cloud/swift-sdk
+4d10ecd676ed383fe61d9e2d903d6f381b8e99d1	not-for-merge	'refs/pull/155/head' of https://github.com/watson-developer-cloud/swift-sdk
+47564c6840187ce806d7d90f85fdc029f59ef663	not-for-merge	'refs/pull/158/head' of https://github.com/watson-developer-cloud/swift-sdk
+bd4e896ef415ba7767ed5ae08ae3ec323417788b	not-for-merge	'refs/pull/16/head' of https://github.com/watson-developer-cloud/swift-sdk
+8834f260068e779a0cab6ae969592742657c4558	not-for-merge	'refs/pull/16/merge' of https://github.com/watson-developer-cloud/swift-sdk
+c4fb88a2bbde63f732e08601d8e106ecafd27dcf	not-for-merge	'refs/pull/161/head' of https://github.com/watson-developer-cloud/swift-sdk
+e5e0bfbc763c9e1bad3bbea06d3c2cbc59d619bf	not-for-merge	'refs/pull/161/merge' of https://github.com/watson-developer-cloud/swift-sdk
+95e7ccfdf15644777ba8e61f8e479352138b3be2	not-for-merge	'refs/pull/165/head' of https://github.com/watson-developer-cloud/swift-sdk
+cd25c04c28c80c4b7a5fd266fc206f70895eb31f	not-for-merge	'refs/pull/167/head' of https://github.com/watson-developer-cloud/swift-sdk
+fb148821279cfafd1c8960dfbe3452666a6bdf2b	not-for-merge	'refs/pull/167/merge' of https://github.com/watson-developer-cloud/swift-sdk
+24a6be6ee6c1e7638c843c4b3f16bb5bec54cae6	not-for-merge	'refs/pull/177/head' of https://github.com/watson-developer-cloud/swift-sdk
+d2a318575b04ca31deeb4455b7ea6cb0949a13c4	not-for-merge	'refs/pull/177/merge' of https://github.com/watson-developer-cloud/swift-sdk
+b3c2492fb0c690d149188ca7ed421f6417591247	not-for-merge	'refs/pull/179/head' of https://github.com/watson-developer-cloud/swift-sdk
+3d468294239d2b1f068465c94e88a01a6e680f92	not-for-merge	'refs/pull/179/merge' of https://github.com/watson-developer-cloud/swift-sdk
+cf2137b5b7167f23582cf0752f84d50f2b9a5589	not-for-merge	'refs/pull/187/head' of https://github.com/watson-developer-cloud/swift-sdk
+9bd4fa9619c01c93fdd0f608b684d76d5ce47834	not-for-merge	'refs/pull/190/head' of https://github.com/watson-developer-cloud/swift-sdk
+76a68cd4e3efe4cc6ae007f3ad1bc74d3e5898b3	not-for-merge	'refs/pull/194/head' of https://github.com/watson-developer-cloud/swift-sdk
+2f9ef9378d6adfaf07febf1583611d5c36be9735	not-for-merge	'refs/pull/198/head' of https://github.com/watson-developer-cloud/swift-sdk
+a19d0bd189a0ef6d9d5525c8cd16c0192c5ccae4	not-for-merge	'refs/pull/203/head' of https://github.com/watson-developer-cloud/swift-sdk
+32fc739520a2beb94a0105dd6b7631b0b3253e61	not-for-merge	'refs/pull/204/head' of https://github.com/watson-developer-cloud/swift-sdk
+5dae1adbf634e191c8ceb77c31f7e1250f31b9af	not-for-merge	'refs/pull/205/head' of https://github.com/watson-developer-cloud/swift-sdk
+bac6f37122cd16612b7597405ee48bfcc8ebaf98	not-for-merge	'refs/pull/211/head' of https://github.com/watson-developer-cloud/swift-sdk
+d05d7d97295b26fdda380e483892b53d93ac0640	not-for-merge	'refs/pull/220/head' of https://github.com/watson-developer-cloud/swift-sdk
+b750810006804c8a77315fc539235213e85104fb	not-for-merge	'refs/pull/223/head' of https://github.com/watson-developer-cloud/swift-sdk
+400faaf49ea5d184748b7efe961e490690060c5a	not-for-merge	'refs/pull/224/head' of https://github.com/watson-developer-cloud/swift-sdk
+f6329c5d3d85b60bea67c529e83a279823143ed2	not-for-merge	'refs/pull/227/head' of https://github.com/watson-developer-cloud/swift-sdk
+ee34e1846c8eb287a50da2c32590a206801837da	not-for-merge	'refs/pull/230/head' of https://github.com/watson-developer-cloud/swift-sdk
+e0315a08833a834495369052bc3dc111103d7cf8	not-for-merge	'refs/pull/231/head' of https://github.com/watson-developer-cloud/swift-sdk
+bb1a83b71c0429de4e0b2971235bb6cd13dfa6a3	not-for-merge	'refs/pull/233/head' of https://github.com/watson-developer-cloud/swift-sdk
+82f745d70f0418f17ce484a7d5911cdd96cb581d	not-for-merge	'refs/pull/234/head' of https://github.com/watson-developer-cloud/swift-sdk
+647f0491e7681fce28e8bda86a7db15a82fdb121	not-for-merge	'refs/pull/236/head' of https://github.com/watson-developer-cloud/swift-sdk
+327ab55be10331f63b6af81bc67d9ebfa8c2fc10	not-for-merge	'refs/pull/241/head' of https://github.com/watson-developer-cloud/swift-sdk
+327ab55be10331f63b6af81bc67d9ebfa8c2fc10	not-for-merge	'refs/pull/242/head' of https://github.com/watson-developer-cloud/swift-sdk
+be7e8da7eca999373e951f3d7c778ced2d520263	not-for-merge	'refs/pull/245/head' of https://github.com/watson-developer-cloud/swift-sdk
+155e8e2b829e2b0c839eade46e919568ff4fa965	not-for-merge	'refs/pull/247/head' of https://github.com/watson-developer-cloud/swift-sdk
+c4154aa38be9fe3659f7ca6354f0a017bf6a85e4	not-for-merge	'refs/pull/248/head' of https://github.com/watson-developer-cloud/swift-sdk
+1e0d847608889d35b620a23d26ac8152ca7892dc	not-for-merge	'refs/pull/249/head' of https://github.com/watson-developer-cloud/swift-sdk
+b0f831664d7c016577a34d5943ca3b5d6a52dddc	not-for-merge	'refs/pull/251/head' of https://github.com/watson-developer-cloud/swift-sdk
+f5eed1cb6f727f6d7c392472408557bb06ee2ee3	not-for-merge	'refs/pull/252/head' of https://github.com/watson-developer-cloud/swift-sdk
+dce837e9f490f4d93e73c74357839c5af0eb97b3	not-for-merge	'refs/pull/252/merge' of https://github.com/watson-developer-cloud/swift-sdk
+b147914ccd8d44e6c0f8b0c982c2e20205a778b5	not-for-merge	'refs/pull/253/head' of https://github.com/watson-developer-cloud/swift-sdk
+7550a3730f1f5fbad05311afd879d0ef661afb28	not-for-merge	'refs/pull/254/head' of https://github.com/watson-developer-cloud/swift-sdk
+cf418e8058926e05f95646b28fea280658448d3c	not-for-merge	'refs/pull/255/head' of https://github.com/watson-developer-cloud/swift-sdk
+2884f3714639d0a92d6a99889f2e1707c621cfd6	not-for-merge	'refs/pull/257/head' of https://github.com/watson-developer-cloud/swift-sdk
+2144dbd3779d94b70890437f664e9209706363bc	not-for-merge	'refs/pull/259/head' of https://github.com/watson-developer-cloud/swift-sdk
+532c4564075027ce66abefd66e57627e47d76b57	not-for-merge	'refs/pull/273/head' of https://github.com/watson-developer-cloud/swift-sdk
+78b61a2767ba482228cddf88aae913f96cecd404	not-for-merge	'refs/pull/275/head' of https://github.com/watson-developer-cloud/swift-sdk
+3913a1df00d9b541736be4e647b85b59f318e461	not-for-merge	'refs/pull/281/head' of https://github.com/watson-developer-cloud/swift-sdk
+4251e4ba531e03df54b363c6e36ee2d531de6e0c	not-for-merge	'refs/pull/282/head' of https://github.com/watson-developer-cloud/swift-sdk
+895aac69c5920c1cd632cfe954e829c422d7f292	not-for-merge	'refs/pull/289/head' of https://github.com/watson-developer-cloud/swift-sdk
+ed43afbf7a73ca57d1bd45f99e109d939085172c	not-for-merge	'refs/pull/290/head' of https://github.com/watson-developer-cloud/swift-sdk
+123e051c732bc233d9e4e3bf1261a8b6d4f46755	not-for-merge	'refs/pull/294/head' of https://github.com/watson-developer-cloud/swift-sdk
+9ea2248b0fee97789985b954103bc2fedcc17414	not-for-merge	'refs/pull/295/head' of https://github.com/watson-developer-cloud/swift-sdk
+a42c2b24ac91cda33ebee8ce1c2fc38e6f418c0f	not-for-merge	'refs/pull/296/head' of https://github.com/watson-developer-cloud/swift-sdk
+a20a1cd225981bec891dda60c40a82b672a63459	not-for-merge	'refs/pull/297/head' of https://github.com/watson-developer-cloud/swift-sdk
+b11b30981ecda759fe3b3d5bb8b0048e1b84d38e	not-for-merge	'refs/pull/298/head' of https://github.com/watson-developer-cloud/swift-sdk
+156c2ba69c729a415f471520b132ad8fa2dcbb94	not-for-merge	'refs/pull/299/head' of https://github.com/watson-developer-cloud/swift-sdk
+80c56b6ac103ffd508ffd014841edbaf37fc7b62	not-for-merge	'refs/pull/303/head' of https://github.com/watson-developer-cloud/swift-sdk
+df4e167294cd6a764fc5309cb0a90fcdd0b3b725	not-for-merge	'refs/pull/305/head' of https://github.com/watson-developer-cloud/swift-sdk
+5ff2398ac83216f9ec8296e359024c4f1040fa4a	not-for-merge	'refs/pull/306/head' of https://github.com/watson-developer-cloud/swift-sdk
+951d0e3e466bf970d40fd76f4ccaed5debda3e65	not-for-merge	'refs/pull/307/head' of https://github.com/watson-developer-cloud/swift-sdk
+5cc6facb13fd3f7345c73f780d11376db75a094f	not-for-merge	'refs/pull/311/head' of https://github.com/watson-developer-cloud/swift-sdk
+d0694813e44c5d36e5c1debfc08a060ca8ea85f4	not-for-merge	'refs/pull/312/head' of https://github.com/watson-developer-cloud/swift-sdk
+4f0cf22bab1334f5832f9e3dfa19fa9bbedd5ea7	not-for-merge	'refs/pull/313/head' of https://github.com/watson-developer-cloud/swift-sdk
+1f13e16cb6bcccb3079c82b716435ba7c6b17d11	not-for-merge	'refs/pull/316/head' of https://github.com/watson-developer-cloud/swift-sdk
+5f2b7c1892969132b79415a408e1eae011f46887	not-for-merge	'refs/pull/320/head' of https://github.com/watson-developer-cloud/swift-sdk
+eeef17ad930d65496f79de909661086fca89b80c	not-for-merge	'refs/pull/321/head' of https://github.com/watson-developer-cloud/swift-sdk
+17780205095fd129af64032883720ce664c0b3d1	not-for-merge	'refs/pull/321/merge' of https://github.com/watson-developer-cloud/swift-sdk
+6b492245c8694b0ad0a055baa003f5e976701efa	not-for-merge	'refs/pull/323/head' of https://github.com/watson-developer-cloud/swift-sdk
+c0624145cfccef1a3a2686af36196b54562c1e2d	not-for-merge	'refs/pull/324/head' of https://github.com/watson-developer-cloud/swift-sdk
+465965e835265c5b0b352664829c52bc8535e734	not-for-merge	'refs/pull/325/head' of https://github.com/watson-developer-cloud/swift-sdk
+d8a97ac61061a422c8618dd0cdb4e49e93f6a7f2	not-for-merge	'refs/pull/326/head' of https://github.com/watson-developer-cloud/swift-sdk
+28c787ebe4ef3e2ef0b98ad4315043193e2bfcea	not-for-merge	'refs/pull/329/head' of https://github.com/watson-developer-cloud/swift-sdk
+856a0700839f7a263879ac0b6897b2faa9fa23e3	not-for-merge	'refs/pull/331/head' of https://github.com/watson-developer-cloud/swift-sdk
+c12ae86c18726b56eda19dc8d6494e243876b8d3	not-for-merge	'refs/pull/332/head' of https://github.com/watson-developer-cloud/swift-sdk
+6a5d23320ce16aa815d4057a53100eb979196026	not-for-merge	'refs/pull/333/head' of https://github.com/watson-developer-cloud/swift-sdk
+6f0c6ba7c98d7678a84e7527be290e2d2fd3c73b	not-for-merge	'refs/pull/336/head' of https://github.com/watson-developer-cloud/swift-sdk
+779eeab8b961010a1eca3e393812ca0ec34f686e	not-for-merge	'refs/pull/344/head' of https://github.com/watson-developer-cloud/swift-sdk
+c2dd26fc3c120dcc2d8a4ce847afd1450a0d19ee	not-for-merge	'refs/pull/354/head' of https://github.com/watson-developer-cloud/swift-sdk
+888b16b941cff0adc953ae85f4b06598f03cf013	not-for-merge	'refs/pull/357/head' of https://github.com/watson-developer-cloud/swift-sdk
+20add5957da95f8361ec3b295b92621f3ac5f04c	not-for-merge	'refs/pull/359/head' of https://github.com/watson-developer-cloud/swift-sdk
+7206bfa4b92de3c143876ce22271d527cb50df96	not-for-merge	'refs/pull/364/head' of https://github.com/watson-developer-cloud/swift-sdk
+b3efbed1707301becf3f1a686e8ae49ddaa16477	not-for-merge	'refs/pull/365/head' of https://github.com/watson-developer-cloud/swift-sdk
+01ae7f28c1c573fbd2c48bdb50f7446f54309cca	not-for-merge	'refs/pull/366/head' of https://github.com/watson-developer-cloud/swift-sdk
+3d9e9521d99ab172f041704b4b583c54f79e7e08	not-for-merge	'refs/pull/367/head' of https://github.com/watson-developer-cloud/swift-sdk
+4afb6917e500d53038318f68d9d958f3103796b3	not-for-merge	'refs/pull/368/head' of https://github.com/watson-developer-cloud/swift-sdk
+c0cfd84e8e8f1e5ca96dcfcd05aff742cbfe2316	not-for-merge	'refs/pull/370/head' of https://github.com/watson-developer-cloud/swift-sdk
+4e9287b820c55ad1f4b3cb2aa1c91d01b12465c1	not-for-merge	'refs/pull/374/head' of https://github.com/watson-developer-cloud/swift-sdk
+3aa16ec3154112caff8745872df6d1eb9debf5e4	not-for-merge	'refs/pull/379/head' of https://github.com/watson-developer-cloud/swift-sdk
+b4191f88466d58967af504e461bb17b7b7a4a9a1	not-for-merge	'refs/pull/381/head' of https://github.com/watson-developer-cloud/swift-sdk
+1995fc5424c5f107454e8cedd4908f191c77f38e	not-for-merge	'refs/pull/382/head' of https://github.com/watson-developer-cloud/swift-sdk
+20fb043be90e24f3300f4d258383ccbb5ba40032	not-for-merge	'refs/pull/383/head' of https://github.com/watson-developer-cloud/swift-sdk
+30e79d8e6ebe30a1e319d2e0fbeedc654badd5bb	not-for-merge	'refs/pull/384/head' of https://github.com/watson-developer-cloud/swift-sdk
+edb5eb06d94c7e9e6c544ddf0ea8da13b43251d0	not-for-merge	'refs/pull/387/head' of https://github.com/watson-developer-cloud/swift-sdk
+12ade1fa688edbc253d21fceafad38c268cbd975	not-for-merge	'refs/pull/394/head' of https://github.com/watson-developer-cloud/swift-sdk
+e6c942aac15d1fb79a75753d8fd9dd468a52214d	not-for-merge	'refs/pull/394/merge' of https://github.com/watson-developer-cloud/swift-sdk
+9fec1e77cff2badf3b453fb360d19e7acac5184c	not-for-merge	'refs/pull/395/head' of https://github.com/watson-developer-cloud/swift-sdk
+492c34aa5595bc554c72ce24a19c8183dd350090	not-for-merge	'refs/pull/397/head' of https://github.com/watson-developer-cloud/swift-sdk
+0cee1a499ceecf4c8fd30dcafefa8a1a6c36e853	not-for-merge	'refs/pull/399/head' of https://github.com/watson-developer-cloud/swift-sdk
+3903db78ef2a8e9c2eb646ce3ae8a36daacd9a97	not-for-merge	'refs/pull/401/head' of https://github.com/watson-developer-cloud/swift-sdk
+9c9a2e3a162f84dce6215974f40d3228e1e2347d	not-for-merge	'refs/pull/408/head' of https://github.com/watson-developer-cloud/swift-sdk
+f1a5a96d8a792bd34cdf435416cd4a03f2fc90a3	not-for-merge	'refs/pull/420/head' of https://github.com/watson-developer-cloud/swift-sdk
+aa68f3fb45cadb81c14851b8ad85a19d4d9c8c65	not-for-merge	'refs/pull/424/head' of https://github.com/watson-developer-cloud/swift-sdk
+e3c70f9a7af1f525766f65a9df2366739fec658f	not-for-merge	'refs/pull/440/head' of https://github.com/watson-developer-cloud/swift-sdk
+085a209384baa3bc10f342c9b9b8be9aeed8837a	not-for-merge	'refs/pull/441/head' of https://github.com/watson-developer-cloud/swift-sdk
+f700b508c62676626ee7b6febd958cdab7e38bab	not-for-merge	'refs/pull/443/head' of https://github.com/watson-developer-cloud/swift-sdk
+273c4e343bad888f94b8a64a3305ffa9ea2eb4e7	not-for-merge	'refs/pull/444/head' of https://github.com/watson-developer-cloud/swift-sdk
+225119d87c2ebd8174a0a2eb04242782591dc9b6	not-for-merge	'refs/pull/446/head' of https://github.com/watson-developer-cloud/swift-sdk
+a064d4b7313ad45c2c20a32d9ee9382a820b84f8	not-for-merge	'refs/pull/451/head' of https://github.com/watson-developer-cloud/swift-sdk
+27857df9edcdd1fb1b8482ab99d90e877a56b69f	not-for-merge	'refs/pull/457/head' of https://github.com/watson-developer-cloud/swift-sdk
+0964b2be576b5090693d9efd15961113971357ab	not-for-merge	'refs/pull/458/head' of https://github.com/watson-developer-cloud/swift-sdk
+a1c8f78dd76e4b3b355c8a58dfac324204747baa	not-for-merge	'refs/pull/459/head' of https://github.com/watson-developer-cloud/swift-sdk
+39ad2dce0fbb5c8ed284e92ea9ad7740f7b6c925	not-for-merge	'refs/pull/486/head' of https://github.com/watson-developer-cloud/swift-sdk
+6005ea48adfbdf494275a86a188f84b682250de4	not-for-merge	'refs/pull/487/head' of https://github.com/watson-developer-cloud/swift-sdk
+0eed4dca7b974b6e153d386b48c4b6a19d2ad259	not-for-merge	'refs/pull/488/head' of https://github.com/watson-developer-cloud/swift-sdk
+5c83c95dade15c3a55702e72edc351adf4a59bc5	not-for-merge	'refs/pull/490/head' of https://github.com/watson-developer-cloud/swift-sdk
+57fcd60085d504ffa40c1c08d7e43fe7d92bc146	not-for-merge	'refs/pull/491/head' of https://github.com/watson-developer-cloud/swift-sdk
+fd98acb4a1860dfce6f111405137b5480dd8e515	not-for-merge	'refs/pull/492/head' of https://github.com/watson-developer-cloud/swift-sdk
+5e6236f7535928419e7022f95b19e21e7ff14af6	not-for-merge	'refs/pull/493/head' of https://github.com/watson-developer-cloud/swift-sdk
+d43292264100ab1efd089c9b6fb51336f3024b90	not-for-merge	'refs/pull/494/head' of https://github.com/watson-developer-cloud/swift-sdk
+6b6fa35ad6745063f32717f16d581c3a90ca8276	not-for-merge	'refs/pull/495/head' of https://github.com/watson-developer-cloud/swift-sdk
+660cba1010fb1478ecc46813b642d4160c12fbee	not-for-merge	'refs/pull/496/head' of https://github.com/watson-developer-cloud/swift-sdk
+3897ef69707be94612f173a5e8c5516e3461553a	not-for-merge	'refs/pull/497/head' of https://github.com/watson-developer-cloud/swift-sdk
+972b7121f127fe49c64b7a50fcf55a32014074ee	not-for-merge	'refs/pull/498/head' of https://github.com/watson-developer-cloud/swift-sdk
+8084a875e7e20d6db4f92948ec94c3757327f3d5	not-for-merge	'refs/pull/499/head' of https://github.com/watson-developer-cloud/swift-sdk
+978a0154698d9229dd77957592ff9b7235f07227	not-for-merge	'refs/pull/500/head' of https://github.com/watson-developer-cloud/swift-sdk
+93a1522b0e1523ad4db1016e051808faabfbf7f8	not-for-merge	'refs/pull/501/head' of https://github.com/watson-developer-cloud/swift-sdk
+35315b4c3f34308f4ded64730fcea52ff42653b4	not-for-merge	'refs/pull/505/head' of https://github.com/watson-developer-cloud/swift-sdk
+c2888047b4d2a5cb302c0659cf79b47be6418b8c	not-for-merge	'refs/pull/506/head' of https://github.com/watson-developer-cloud/swift-sdk
+2b5f8936130e768adc9d799e76c6c401011bd593	not-for-merge	'refs/pull/508/head' of https://github.com/watson-developer-cloud/swift-sdk
+e3f5c3b442519bf05a1e2a79a0c86b73b1a050da	not-for-merge	'refs/pull/522/head' of https://github.com/watson-developer-cloud/swift-sdk
+582a2f636c48c0860e3f69c940c866057e3ced35	not-for-merge	'refs/pull/525/head' of https://github.com/watson-developer-cloud/swift-sdk
+e50f7bbf30063cfb3ca95649314dfb505c343a46	not-for-merge	'refs/pull/526/head' of https://github.com/watson-developer-cloud/swift-sdk
+3a3605a149dca8f4a16817b5a08cc997a974f747	not-for-merge	'refs/pull/527/head' of https://github.com/watson-developer-cloud/swift-sdk
+e2604d4d08e342036b2093f24997da7042d62171	not-for-merge	'refs/pull/528/head' of https://github.com/watson-developer-cloud/swift-sdk
+5ffbc8f0219bfea0459311ee569af50f8edf29d1	not-for-merge	'refs/pull/529/head' of https://github.com/watson-developer-cloud/swift-sdk
+8e5b6d3e4ebceeca8960287cad3531cd9252a6be	not-for-merge	'refs/pull/530/head' of https://github.com/watson-developer-cloud/swift-sdk
+9209a7277c4e72cb937da10bc5b646a1c0bf5557	not-for-merge	'refs/pull/531/head' of https://github.com/watson-developer-cloud/swift-sdk
+4e11ea6a13e94bc02387fb509fdfd0b7c6a361d2	not-for-merge	'refs/pull/532/head' of https://github.com/watson-developer-cloud/swift-sdk
+caca5bdaf560d692824d8513c10b6ccb2416aa17	not-for-merge	'refs/pull/533/head' of https://github.com/watson-developer-cloud/swift-sdk
+936c8f781757b8e0a0abdfa98526fe1debd65a59	not-for-merge	'refs/pull/536/head' of https://github.com/watson-developer-cloud/swift-sdk
+8e80c8b2a0b301241c6626d40d660a4028bffc6b	not-for-merge	'refs/pull/537/head' of https://github.com/watson-developer-cloud/swift-sdk
+62983036a732778eb2ef03bd593e485d1be29bf0	not-for-merge	'refs/pull/538/head' of https://github.com/watson-developer-cloud/swift-sdk
+f16ca2260772f718a521c1290cfa4abadb891778	not-for-merge	'refs/pull/540/head' of https://github.com/watson-developer-cloud/swift-sdk
+5b2e53e337a849cdedfb740d10ef27b1d9f86a25	not-for-merge	'refs/pull/543/head' of https://github.com/watson-developer-cloud/swift-sdk
+e30458b2eb2f1978cbc0ec51305649e42e2fa8d0	not-for-merge	'refs/pull/547/head' of https://github.com/watson-developer-cloud/swift-sdk
+41b915a0421906624312d1605fcba66429d0061e	not-for-merge	'refs/pull/549/head' of https://github.com/watson-developer-cloud/swift-sdk
+de3ebddc20483bcf806bb028a7164f5ba130782f	not-for-merge	'refs/pull/550/head' of https://github.com/watson-developer-cloud/swift-sdk
+356b1d0cf5af1ccae9b98cc5b0d7dac058ff8ce6	not-for-merge	'refs/pull/553/head' of https://github.com/watson-developer-cloud/swift-sdk
+8307ca3fc56e2a830e2f1e6d25ff32bb9f7d6308	not-for-merge	'refs/pull/554/head' of https://github.com/watson-developer-cloud/swift-sdk
+0f1012093c65e125d20508ecfa0fdc74e6578f65	not-for-merge	'refs/pull/557/head' of https://github.com/watson-developer-cloud/swift-sdk
+c5ba4ada03f9784731da9847d9e1686b0b35c2b6	not-for-merge	'refs/pull/558/head' of https://github.com/watson-developer-cloud/swift-sdk
+44a0f0f95bea8039c04bdafcb8055b34713ba757	not-for-merge	'refs/pull/560/head' of https://github.com/watson-developer-cloud/swift-sdk
+ee4b02ab6fff12cc38f3825b9300b2916d0fdfef	not-for-merge	'refs/pull/560/merge' of https://github.com/watson-developer-cloud/swift-sdk
+5ecd5459017555a913949cbd7a69a6bc41f4a98d	not-for-merge	'refs/pull/562/head' of https://github.com/watson-developer-cloud/swift-sdk
+f909b80cea14a2df15e73966015ac6ffaa301fb6	not-for-merge	'refs/pull/563/head' of https://github.com/watson-developer-cloud/swift-sdk
+cc4b1e331ef62cd5a468ec89058ca40c8f3d554b	not-for-merge	'refs/pull/565/head' of https://github.com/watson-developer-cloud/swift-sdk
+2ed1c751303083875f028d1d3237da866ddd3153	not-for-merge	'refs/pull/566/head' of https://github.com/watson-developer-cloud/swift-sdk
+016724dffd1b9477bf17a2a2d359e0808adce55d	not-for-merge	'refs/pull/567/head' of https://github.com/watson-developer-cloud/swift-sdk
+812605be067390619d1339fcc554195e6c033a9a	not-for-merge	'refs/pull/568/head' of https://github.com/watson-developer-cloud/swift-sdk
+01c07fe07edcddf129fcdabcbbe1ec26cf5208db	not-for-merge	'refs/pull/569/head' of https://github.com/watson-developer-cloud/swift-sdk
+8e7a89c6a4e5317b0f1d277d5a13c2500e469d0a	not-for-merge	'refs/pull/569/merge' of https://github.com/watson-developer-cloud/swift-sdk
+79e077a28e0cedc32cedafa176b99bc61b9a07ab	not-for-merge	'refs/pull/572/head' of https://github.com/watson-developer-cloud/swift-sdk
+693fd9a8d800f7f2b64b0f7365969d0466828dc0	not-for-merge	'refs/pull/573/head' of https://github.com/watson-developer-cloud/swift-sdk
+132a787a1bb7023631d97c6d33b9c38a7e5f8a6f	not-for-merge	'refs/pull/574/head' of https://github.com/watson-developer-cloud/swift-sdk
+d86594cf1230ca9681a0b792ab9d0a7185dc7a46	not-for-merge	'refs/pull/575/head' of https://github.com/watson-developer-cloud/swift-sdk
+15f2e79da95c6c5c9f36e39c7725123650f4848a	not-for-merge	'refs/pull/576/head' of https://github.com/watson-developer-cloud/swift-sdk
+2bdc81f3bb4df3046bbd89c77e60c9d0017c112e	not-for-merge	'refs/pull/579/head' of https://github.com/watson-developer-cloud/swift-sdk
+da874015145f0a88f17853f5d581b390dd31db97	not-for-merge	'refs/pull/584/head' of https://github.com/watson-developer-cloud/swift-sdk
+435539654a59a5b837026fbdeb1f4b93674353f0	not-for-merge	'refs/pull/586/head' of https://github.com/watson-developer-cloud/swift-sdk
+ed514e5d4ac8af4a7bf9397fd39c5fa93bbf35da	not-for-merge	'refs/pull/588/head' of https://github.com/watson-developer-cloud/swift-sdk
+a2835cc9b39076192e02248c27b9d992cf1fcaef	not-for-merge	'refs/pull/589/head' of https://github.com/watson-developer-cloud/swift-sdk
+5db7b18330af177e64061c28e8d35436d7eb793c	not-for-merge	'refs/pull/590/head' of https://github.com/watson-developer-cloud/swift-sdk
+e1086bd81aa7138e793d1f01b14913f87e7160f1	not-for-merge	'refs/pull/590/merge' of https://github.com/watson-developer-cloud/swift-sdk
+2439c24fd67f139f2ccb5d3993532de43c3ccb4b	not-for-merge	'refs/pull/591/head' of https://github.com/watson-developer-cloud/swift-sdk
+32d579184427977abb538c44f0d04fc5b518edd7	not-for-merge	'refs/pull/591/merge' of https://github.com/watson-developer-cloud/swift-sdk
+d111735d891642835a57c8dcdecc303799fe32c4	not-for-merge	'refs/pull/593/head' of https://github.com/watson-developer-cloud/swift-sdk
+1b0da772a54ce90f77241e75c745d21f2665aa3b	not-for-merge	'refs/pull/594/head' of https://github.com/watson-developer-cloud/swift-sdk
+578c986776aad689800ef1bdf8f59128c8166ca0	not-for-merge	'refs/pull/594/merge' of https://github.com/watson-developer-cloud/swift-sdk
+0de91eea1fc6a79fe2e2e9e838e42cd1dc4784fc	not-for-merge	'refs/pull/596/head' of https://github.com/watson-developer-cloud/swift-sdk
+927439da0a2df71acd6bddd3cab2e50239a589e9	not-for-merge	'refs/pull/599/head' of https://github.com/watson-developer-cloud/swift-sdk
+2439c24fd67f139f2ccb5d3993532de43c3ccb4b	not-for-merge	'refs/pull/602/head' of https://github.com/watson-developer-cloud/swift-sdk
+5d39747aadfad078ea438069c9f46e7a3e0c0962	not-for-merge	'refs/pull/602/merge' of https://github.com/watson-developer-cloud/swift-sdk
+349757a9c3c74cf340b6a2314178c9c6f4f553d9	not-for-merge	'refs/pull/603/head' of https://github.com/watson-developer-cloud/swift-sdk
+8e010bd56d785418e2f4b69181e4af6eb08d10d8	not-for-merge	'refs/pull/606/head' of https://github.com/watson-developer-cloud/swift-sdk
+ceed8bd080e538af78ad5c82719f637ccf74f362	not-for-merge	'refs/pull/607/head' of https://github.com/watson-developer-cloud/swift-sdk
+47f97ae28419b6ed2c1649427fb4e716b4ad3522	not-for-merge	'refs/pull/610/head' of https://github.com/watson-developer-cloud/swift-sdk
+d6866e3dbe78376977a5826512566aa43914dd4c	not-for-merge	'refs/pull/617/head' of https://github.com/watson-developer-cloud/swift-sdk
+4267da5296dae2ce1e0d6de03d7852d9b00377bc	not-for-merge	'refs/pull/618/head' of https://github.com/watson-developer-cloud/swift-sdk
+c7a825af598259c9220e5ddd1e3514fa776de6fa	not-for-merge	'refs/pull/619/head' of https://github.com/watson-developer-cloud/swift-sdk
+8ac6ebd9c3ba2a811cc11c4bd20827491459982b	not-for-merge	'refs/pull/623/head' of https://github.com/watson-developer-cloud/swift-sdk
+7663b5b6ecf15ee0a17276639d6852b812034961	not-for-merge	'refs/pull/627/head' of https://github.com/watson-developer-cloud/swift-sdk
+bd449604141e6761cb8215500b8d3846d298f8d5	not-for-merge	'refs/pull/629/head' of https://github.com/watson-developer-cloud/swift-sdk
+0711974d809cc1b6d8c56bbc99e8fa8d4ccbf773	not-for-merge	'refs/pull/630/head' of https://github.com/watson-developer-cloud/swift-sdk
+6dbf9f918cc3536b315c93cb19f093b24da89a35	not-for-merge	'refs/pull/633/head' of https://github.com/watson-developer-cloud/swift-sdk
+f0ce827f44099ae2792e15b21ef15543583dd034	not-for-merge	'refs/pull/634/head' of https://github.com/watson-developer-cloud/swift-sdk
+80be8faf2b048fa0541703956156d88326b23bbb	not-for-merge	'refs/pull/634/merge' of https://github.com/watson-developer-cloud/swift-sdk
+4f70d696feb4a1f49b0b77f8da530635c74a5f32	not-for-merge	'refs/pull/635/head' of https://github.com/watson-developer-cloud/swift-sdk
+79e3ec9edb3bdf5c4b5fe3e9d13f4c797b41edfb	not-for-merge	'refs/pull/638/head' of https://github.com/watson-developer-cloud/swift-sdk
+45ae5150cdd8f2f64529dd3e57c170e0709a0721	not-for-merge	'refs/pull/639/head' of https://github.com/watson-developer-cloud/swift-sdk
+a34bb689a0591986a6e264f7ad985c20a360a39f	not-for-merge	'refs/pull/639/merge' of https://github.com/watson-developer-cloud/swift-sdk
+d4c63b164eb9df1064ffa86480fb98ecf6f42fb3	not-for-merge	'refs/pull/643/head' of https://github.com/watson-developer-cloud/swift-sdk
+ca01424731b734d956943934ebb37de5ea524125	not-for-merge	'refs/pull/644/head' of https://github.com/watson-developer-cloud/swift-sdk
+edc9e76e90b13300109b9032f2eae6c77f9d6550	not-for-merge	'refs/pull/647/head' of https://github.com/watson-developer-cloud/swift-sdk
+5f315a031869c0148e36047f829133f86c7a8cea	not-for-merge	'refs/pull/648/head' of https://github.com/watson-developer-cloud/swift-sdk
+b7e80573368aae1748c6f104dbdb90887f7ac980	not-for-merge	'refs/pull/651/head' of https://github.com/watson-developer-cloud/swift-sdk
+8810bb55953f0cc0677daebf8fc770cbfee82f33	not-for-merge	'refs/pull/653/head' of https://github.com/watson-developer-cloud/swift-sdk
+cdeeb203be273531ef75e0cb9d9f1f9c9259877e	not-for-merge	'refs/pull/654/head' of https://github.com/watson-developer-cloud/swift-sdk
+9317ae8acebecf218008925da99529173d0f98df	not-for-merge	'refs/pull/656/head' of https://github.com/watson-developer-cloud/swift-sdk
+46071ac5688a6f03fd90ce66d0ba34256b95a407	not-for-merge	'refs/pull/659/head' of https://github.com/watson-developer-cloud/swift-sdk
+86c2701cd6472b3fec4827e8b709f579a280d84c	not-for-merge	'refs/pull/660/head' of https://github.com/watson-developer-cloud/swift-sdk
+afcf25d83db255f3c7d7156394c3b2f0429d7a20	not-for-merge	'refs/pull/661/head' of https://github.com/watson-developer-cloud/swift-sdk
+ffdf9f058147622e90583cadc8d4c7395d0cf263	not-for-merge	'refs/pull/661/merge' of https://github.com/watson-developer-cloud/swift-sdk
+9e5665748b8f9bf88dd3f5ede0ae3a80d5d9aa35	not-for-merge	'refs/pull/663/head' of https://github.com/watson-developer-cloud/swift-sdk
+b6fd3fe8cf6bbf4ac585fd68e01efadbaa2c40cd	not-for-merge	'refs/pull/664/head' of https://github.com/watson-developer-cloud/swift-sdk
+08a884ffe075d641ed499bfedeaff49129708747	not-for-merge	'refs/pull/666/head' of https://github.com/watson-developer-cloud/swift-sdk
+63a02bcec9bde01bbfb0a2849cfb5b36b7bdc4b3	not-for-merge	'refs/pull/671/head' of https://github.com/watson-developer-cloud/swift-sdk
+7e65a4406c03b0a6addf3c78ea9527cbd9b36629	not-for-merge	'refs/pull/673/head' of https://github.com/watson-developer-cloud/swift-sdk
+8938af80a4ef8f1845aa3c4ad08774ca88491718	not-for-merge	'refs/pull/674/head' of https://github.com/watson-developer-cloud/swift-sdk
+d03e298e70b32f93ae8ab28a542dd40d7d83a5db	not-for-merge	'refs/pull/675/head' of https://github.com/watson-developer-cloud/swift-sdk
+d3b367f2bd44fc043c4f33b087be64dac22c7f1e	not-for-merge	'refs/pull/677/head' of https://github.com/watson-developer-cloud/swift-sdk
+a331b6c54051829404894f8d6dc00468424d5ced	not-for-merge	'refs/pull/678/head' of https://github.com/watson-developer-cloud/swift-sdk
+adfbc77695b154448fb57170394fad31c8a0e8d0	not-for-merge	'refs/pull/679/head' of https://github.com/watson-developer-cloud/swift-sdk
+a525de309e7de6a00e5cb97c8a9f500522d278cb	not-for-merge	'refs/pull/680/head' of https://github.com/watson-developer-cloud/swift-sdk
+7e3d2030171f26c7c5ba76619f465448b1d33194	not-for-merge	'refs/pull/682/head' of https://github.com/watson-developer-cloud/swift-sdk
+c6b65a0ea9f56db0395ed8ddea2f2d7e327bb0e3	not-for-merge	'refs/pull/683/head' of https://github.com/watson-developer-cloud/swift-sdk
+6b74c838aabfd2be2b0555ec77b99ebcad7ccf8e	not-for-merge	'refs/pull/684/head' of https://github.com/watson-developer-cloud/swift-sdk
+c1b3e6881dca6f78f413a42e5799239aa54a58a7	not-for-merge	'refs/pull/685/head' of https://github.com/watson-developer-cloud/swift-sdk
+a3b5e4d5e1752e378a4dedd36f75197abef3e685	not-for-merge	'refs/pull/686/head' of https://github.com/watson-developer-cloud/swift-sdk
+def843f258c87c02a1f58ad8eca802184a1ab17d	not-for-merge	'refs/pull/687/head' of https://github.com/watson-developer-cloud/swift-sdk
+5e81b750723f81344ae0ae80ec8e30f651fbf331	not-for-merge	'refs/pull/688/head' of https://github.com/watson-developer-cloud/swift-sdk
+19d9d9bd7a23739b9d60787fb87c405e3dbb6d3a	not-for-merge	'refs/pull/689/head' of https://github.com/watson-developer-cloud/swift-sdk
+0b9d19f821ab0e268707d01b7fa0863688341d28	not-for-merge	tag 'v0.1.0' of https://github.com/watson-developer-cloud/swift-sdk
+73e8fca2e91474bab130d166d557d2960a9a16c5	not-for-merge	tag 'v0.1.1' of https://github.com/watson-developer-cloud/swift-sdk
+ee74c3fdf190691a661c25bbb4d66c0b8c2ab8f5	not-for-merge	tag 'v0.1.2' of https://github.com/watson-developer-cloud/swift-sdk
+9c5d213d4a26282973279c1a0f663ee15c302cbc	not-for-merge	tag 'v0.10.0' of https://github.com/watson-developer-cloud/swift-sdk
+d7c960fd420979cd8e429b4f207f5445c2e4687a	not-for-merge	tag 'v0.11.0' of https://github.com/watson-developer-cloud/swift-sdk
+8aaea38efe2650379328ce19e2466b148d2b90c2	not-for-merge	tag 'v0.12.0' of https://github.com/watson-developer-cloud/swift-sdk
+8eaed0f0ee1c806477b363af40bde2e36f207284	not-for-merge	tag 'v0.13.0' of https://github.com/watson-developer-cloud/swift-sdk
+41aada7d311e6be3adb640c576815423cf24eb1f	not-for-merge	tag 'v0.13.1' of https://github.com/watson-developer-cloud/swift-sdk
+c886cd316032eb40eef2f920ec3ca7fd07f35525	not-for-merge	tag 'v0.13.2' of https://github.com/watson-developer-cloud/swift-sdk
+bc5b6ee436dab4d9b97ab39e8288f3bb5c58cdc9	not-for-merge	tag 'v0.14.0' of https://github.com/watson-developer-cloud/swift-sdk
+cd208d938c785c83dda2b8a4f81c6285e9c34733	not-for-merge	tag 'v0.14.1' of https://github.com/watson-developer-cloud/swift-sdk
+29f87b5278b18a188a8c3a9f2c34d55ca45545e2	not-for-merge	tag 'v0.14.2' of https://github.com/watson-developer-cloud/swift-sdk
+472690831a25ff6bd145538f4e53030b6ef7a400	not-for-merge	tag 'v0.15.0' of https://github.com/watson-developer-cloud/swift-sdk
+67c9e0b82cff59de751ae765d8e0d43b4a288331	not-for-merge	tag 'v0.15.1' of https://github.com/watson-developer-cloud/swift-sdk
+9b54ecdd401a59666fdde229d666a62418c4ae0a	not-for-merge	tag 'v0.16.0' of https://github.com/watson-developer-cloud/swift-sdk
+13c65978e403c240283d4c25748c9acb0aeeafc1	not-for-merge	tag 'v0.17.0' of https://github.com/watson-developer-cloud/swift-sdk
+4b2d663ad7aaa509c5ec3508fe286370497199b4	not-for-merge	tag 'v0.18.0' of https://github.com/watson-developer-cloud/swift-sdk
+e24558066503c60f9760d6482fd942666e255f2f	not-for-merge	tag 'v0.19.0' of https://github.com/watson-developer-cloud/swift-sdk
+3fdc2746c754ba246137995e4f66231c3e8e9022	not-for-merge	tag 'v0.2.0' of https://github.com/watson-developer-cloud/swift-sdk
+6866c0f26ab78c51d876f526b07d7b293e4817a0	not-for-merge	tag 'v0.2.1' of https://github.com/watson-developer-cloud/swift-sdk
+fe9b0d2c303faa6fdf49e2b9dca7f8a98ad40d46	not-for-merge	tag 'v0.2.2' of https://github.com/watson-developer-cloud/swift-sdk
+24716008cf0347a3aceb40ffcaf9c89e144d24a2	not-for-merge	tag 'v0.2.3' of https://github.com/watson-developer-cloud/swift-sdk
+5f944b62c2a1702b966c0d7a2a1b006e2b114fcb	not-for-merge	tag 'v0.2.4' of https://github.com/watson-developer-cloud/swift-sdk
+e69a2ffa1fd074976f279ecce0df1d4e80175b0a	not-for-merge	tag 'v0.2.5' of https://github.com/watson-developer-cloud/swift-sdk
+699c58b958a4a3795469d3d606faf1c1c434bdc0	not-for-merge	tag 'v0.2.5.1' of https://github.com/watson-developer-cloud/swift-sdk
+bef623ddc57b1f08898f8752ea8031234098eb65	not-for-merge	tag 'v0.3.0' of https://github.com/watson-developer-cloud/swift-sdk
+0549f6580718444d6ce2bc96e41e2c473f9a4b11	not-for-merge	tag 'v0.4.0' of https://github.com/watson-developer-cloud/swift-sdk
+cb78938f38668e5f2390c5aab123a9f6c2bb5d30	not-for-merge	tag 'v0.4.1' of https://github.com/watson-developer-cloud/swift-sdk
+9b2572326d1f29a7dd6cbc53c57a76a8e8a6f759	not-for-merge	tag 'v0.4.2' of https://github.com/watson-developer-cloud/swift-sdk
+d3886fa0a6f879fc04407ba50bc38d2e5edbc093	not-for-merge	tag 'v0.5.0' of https://github.com/watson-developer-cloud/swift-sdk
+e8d9798dd05035b2acf5c28a40f3f3e94b8160b6	not-for-merge	tag 'v0.6.0' of https://github.com/watson-developer-cloud/swift-sdk
+42f26c69ec4f0551f1272ee605f2217d1dee4809	not-for-merge	tag 'v0.6.1' of https://github.com/watson-developer-cloud/swift-sdk
+409c277f87c06059867616a9a37b0f910d6a5aad	not-for-merge	tag 'v0.6.2' of https://github.com/watson-developer-cloud/swift-sdk
+ba5836914b5748127eafabdd4f173ace0dfeed0c	not-for-merge	tag 'v0.7.0' of https://github.com/watson-developer-cloud/swift-sdk
+a75eacb0e20ffceaa1716b25a7208496eba6e601	not-for-merge	tag 'v0.7.1' of https://github.com/watson-developer-cloud/swift-sdk
+82d38746c9293c3b93e994886084a1ddaf938f65	not-for-merge	tag 'v0.7.2' of https://github.com/watson-developer-cloud/swift-sdk
+422481272a68cdf23b07f5a2d323d1c83188b1ec	not-for-merge	tag 'v0.7.3' of https://github.com/watson-developer-cloud/swift-sdk
+7a160331c7c0879a79a6968501c97ab5c243ea5e	not-for-merge	tag 'v0.8.0' of https://github.com/watson-developer-cloud/swift-sdk
+374bcdcd6d0443aae375ea3439cfe555c6eff23c	not-for-merge	tag 'v0.8.1' of https://github.com/watson-developer-cloud/swift-sdk
+082b3b81deb37eb1db45d671cf3873c295db3591	not-for-merge	tag 'v0.8.2' of https://github.com/watson-developer-cloud/swift-sdk
+9d1a1fd5a54df333ab66c65a6e8503dc5685c942	not-for-merge	tag 'v0.9.0' of https://github.com/watson-developer-cloud/swift-sdk
+58541a90ffd9360a32d8d5bbe24d69c81e73fc57	not-for-merge	tag 'v0.9.1' of https://github.com/watson-developer-cloud/swift-sdk
